@@ -11,4 +11,4 @@ I maintain a Steam group that lists all "Language Learning Games" available on t
 
 ## Solution
 
-For now, I thought I could learn a little beginner level Python to scrape my Steam Group page. Got that figured out quickly, so next I plan to somehow build a sequence of events that allow my personal sites to watch for changes on the Steam group, and update themselves accordingly. (Add a new game entry to the LanuageLearningGames website I am developing.)
+For now, I've learned some basic python to export a text file with the list of games and their store links. Next, I want to output a JSON file so I can consume it elsewhere.
