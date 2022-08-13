@@ -24,7 +24,7 @@ for index, r in enumerate(results):
     singleGameResponse = requests.get(communityUrl)
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
     result = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
-    storeUrl = result['href']
+    storeUrl = result['href'].split('?')[0]
     
     games.append(
         {
