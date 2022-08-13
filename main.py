@@ -15,7 +15,7 @@ results = groupPageHtml.find_all('div', {'class': 'group_associated_game'})
 games = []
 
 jsonFile = open(f'games.json', 'w')
-print("Writing file... ")
+print("\nWriting file...\n")
 
 for index, r in enumerate(results):
     print(f"adding {index + 1}. {r.text.strip()}... ")
@@ -24,13 +24,13 @@ for index, r in enumerate(results):
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
     aTag = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
     titleTag = gamePageHtml.find('div', {'class': 'apphub_AppName'})
-    gameTitle = titleTag.text
+    gameTitle = titleTag.text.strip()
     storeUrl = aTag['href'].split('?')[0]
     
     games.append(
         {
-            'id': index,
-            'title': gameTitle.strip(),
+            'id': index + 1,
+            'title': gameTitle,
             'storeUrl': storeUrl
         }
     )
@@ -40,4 +40,4 @@ jsonFile.write(jsonString)
 
 jsonFile.close()
 
-print("Finished! File saved.")
+print("\nFinished! File saved.\n")
