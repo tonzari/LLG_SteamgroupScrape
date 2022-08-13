@@ -1,1 +1,162 @@
-[{"id": 0, "title": "Da! Russian Quiz", "storeUrl": "https://store.steampowered.com/app/1337200?snr=2_9_100000_"}, {"id": 1, "title": "Earthlingo", "storeUrl": "https://store.steampowered.com/app/1071240?snr=2_9_100000_"}, {"id": 2, "title": "Hiragana Katakana Ninja", "storeUrl": "https://store.steampowered.com/app/1628400?snr=2_9_100000_"}, {"id": 3, "title": "Influent", "storeUrl": "https://store.steampowered.com/app/274980?snr=2_9_100000_"}, {"id": 4, "title": "Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57", "storeUrl": "https://store.steampowered.com/app/843120?snr=2_9_100000_"}, {"id": 5, "title": "Kana Quest", "storeUrl": "https://store.steampowered.com/app/725850?snr=2_9_100000_"}, {"id": 6, "title": "Kanji in Motion", "storeUrl": "https://store.steampowered.com/app/1028770?snr=2_9_100000_"}, {"id": 7, "title": "Kanji Training Game", "storeUrl": "https://store.steampowered.com/app/397210?snr=2_9_100000_"}, {"id": 8, "title": "Language Lab", "storeUrl": "https://store.steampowered.com/app/2057000?snr=2_9_100000_"}, {"id": 9, "title": "Learn Japanese To Survive! Kanji Combat", "storeUrl": "https://store.steampowered.com/app/759440?snr=2_9_100000_"}, {"id": 10, "title": "Learn Japanese To Survive! Katakana War", "storeUrl": "https://store.steampowered.com/app/554600?snr=2_9_100000_"}, {"id": 11, "title": "Learn Japanese To Survive - Hiragana Battle", "storeUrl": "https://store.steampowered.com/app/438270?snr=2_9_100000_"}, {"id": 12, "title": "Learn Spanish! Easy Vocabulary", "storeUrl": "https://store.steampowered.com/app/1117590?snr=2_9_100000_"}, {"id": 13, "title": "Learn Spanish VR", "storeUrl": "https://store.steampowered.com/app/1378840?snr=2_9_100000_"}, {"id": 14, "title": "Let's Learn Japanese! Hiragana", "storeUrl": "https://store.steampowered.com/app/997720?snr=2_9_100000_"}, {"id": 15, "title": "Let's Learn Japanese! Katakana", "storeUrl": "https://store.steampowered.com/app/1018900?snr=2_9_100000_"}, {"id": 16, "title": "Let's Learn Japanese! Vocabulary", "storeUrl": "https://store.steampowered.com/app/1208030?snr=2_9_100000_"}, {"id": 17, "title": "Lingotopia", "storeUrl": "https://store.steampowered.com/app/860640?snr=2_9_100000_"}, {"id": 18, "title": "Linguist FPS - The Language Learning FPS", "storeUrl": "https://store.steampowered.com/app/1945590?snr=2_9_100000_"}, {"id": 19, "title": "Milliopoly - Language Quiz and Learning", "storeUrl": "https://store.steampowered.com/app/1822010?snr=2_9_100000_"}, {"id": 20, "title": "Mondly: Learn Languages in VR", "storeUrl": "https://store.steampowered.com/app/1141930?snr=2_9_100000_"}, {"id": 21, "title": "Newcomer", "storeUrl": "https://store.steampowered.com/app/2063790?snr=2_9_100000_"}, {"id": 22, "title": "Nihongo Heroes", "storeUrl": "https://store.steampowered.com/app/1794690?snr=2_9_100000_"}, {"id": 23, "title": "Nihongo Quest N5", "storeUrl": "https://store.steampowered.com/app/1556070?snr=2_9_100000_"}, {"id": 24, "title": "Noun Town", "storeUrl": "https://store.steampowered.com/app/1643100?snr=2_9_100000_"}, {"id": 25, "title": "Pedro's Adventures in Spanish", "storeUrl": "https://store.steampowered.com/app/1602930?snr=2_9_100000_"}, {"id": 26, "title": "RoboLingo", "storeUrl": "https://store.steampowered.com/app/1798820?snr=2_9_100000_"}, {"id": 27, "title": "Shashingo: Learn Japanese with Photography", "storeUrl": "https://store.steampowered.com/app/1632490?snr=2_9_100000_"}, {"id": 28, "title": "Terra Alia", "storeUrl": "https://store.steampowered.com/app/1183580?snr=2_9_100000_"}, {"id": 29, "title": "The Language Game", "storeUrl": "https://store.steampowered.com/app/372720?snr=2_9_100000_"}, {"id": 30, "title": "Trancelation", "storeUrl": "https://store.steampowered.com/app/716560?snr=2_9_100000_"}, {"id": 31, "title": "You Can Kana", "storeUrl": "https://store.steampowered.com/app/1031900?snr=2_9_100000_"}]
+[
+    {
+        "id": 0,
+        "storeUrl": "https://store.steampowered.com/app/1337200?snr=2_9_100000_",
+        "title": "Da! Russian Quiz"
+    },
+    {
+        "id": 1,
+        "storeUrl": "https://store.steampowered.com/app/1071240?snr=2_9_100000_",
+        "title": "Earthlingo"
+    },
+    {
+        "id": 2,
+        "storeUrl": "https://store.steampowered.com/app/1628400?snr=2_9_100000_",
+        "title": "Hiragana Katakana Ninja"
+    },
+    {
+        "id": 3,
+        "storeUrl": "https://store.steampowered.com/app/274980?snr=2_9_100000_",
+        "title": "Influent"
+    },
+    {
+        "id": 4,
+        "storeUrl": "https://store.steampowered.com/app/843120?snr=2_9_100000_",
+        "title": "Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57"
+    },
+    {
+        "id": 5,
+        "storeUrl": "https://store.steampowered.com/app/725850?snr=2_9_100000_",
+        "title": "Kana Quest"
+    },
+    {
+        "id": 6,
+        "storeUrl": "https://store.steampowered.com/app/1028770?snr=2_9_100000_",
+        "title": "Kanji in Motion"
+    },
+    {
+        "id": 7,
+        "storeUrl": "https://store.steampowered.com/app/397210?snr=2_9_100000_",
+        "title": "Kanji Training Game"
+    },
+    {
+        "id": 8,
+        "storeUrl": "https://store.steampowered.com/app/2057000?snr=2_9_100000_",
+        "title": "Language Lab"
+    },
+    {
+        "id": 9,
+        "storeUrl": "https://store.steampowered.com/app/759440?snr=2_9_100000_",
+        "title": "Learn Japanese To Survive! Kanji Combat"
+    },
+    {
+        "id": 10,
+        "storeUrl": "https://store.steampowered.com/app/554600?snr=2_9_100000_",
+        "title": "Learn Japanese To Survive! Katakana War"
+    },
+    {
+        "id": 11,
+        "storeUrl": "https://store.steampowered.com/app/438270?snr=2_9_100000_",
+        "title": "Learn Japanese To Survive - Hiragana Battle"
+    },
+    {
+        "id": 12,
+        "storeUrl": "https://store.steampowered.com/app/1117590?snr=2_9_100000_",
+        "title": "Learn Spanish! Easy Vocabulary"
+    },
+    {
+        "id": 13,
+        "storeUrl": "https://store.steampowered.com/app/1378840?snr=2_9_100000_",
+        "title": "Learn Spanish VR"
+    },
+    {
+        "id": 14,
+        "storeUrl": "https://store.steampowered.com/app/997720?snr=2_9_100000_",
+        "title": "Let's Learn Japanese! Hiragana"
+    },
+    {
+        "id": 15,
+        "storeUrl": "https://store.steampowered.com/app/1018900?snr=2_9_100000_",
+        "title": "Let's Learn Japanese! Katakana"
+    },
+    {
+        "id": 16,
+        "storeUrl": "https://store.steampowered.com/app/1208030?snr=2_9_100000_",
+        "title": "Let's Learn Japanese! Vocabulary"
+    },
+    {
+        "id": 17,
+        "storeUrl": "https://store.steampowered.com/app/860640?snr=2_9_100000_",
+        "title": "Lingotopia"
+    },
+    {
+        "id": 18,
+        "storeUrl": "https://store.steampowered.com/app/1945590?snr=2_9_100000_",
+        "title": "Linguist FPS - The Language Learning FPS"
+    },
+    {
+        "id": 19,
+        "storeUrl": "https://store.steampowered.com/app/1822010?snr=2_9_100000_",
+        "title": "Milliopoly - Language Quiz and Learning"
+    },
+    {
+        "id": 20,
+        "storeUrl": "https://store.steampowered.com/app/1141930?snr=2_9_100000_",
+        "title": "Mondly: Learn Languages in VR"
+    },
+    {
+        "id": 21,
+        "storeUrl": "https://store.steampowered.com/app/2063790?snr=2_9_100000_",
+        "title": "Newcomer"
+    },
+    {
+        "id": 22,
+        "storeUrl": "https://store.steampowered.com/app/1794690?snr=2_9_100000_",
+        "title": "Nihongo Heroes"
+    },
+    {
+        "id": 23,
+        "storeUrl": "https://store.steampowered.com/app/1556070?snr=2_9_100000_",
+        "title": "Nihongo Quest N5"
+    },
+    {
+        "id": 24,
+        "storeUrl": "https://store.steampowered.com/app/1643100?snr=2_9_100000_",
+        "title": "Noun Town"
+    },
+    {
+        "id": 25,
+        "storeUrl": "https://store.steampowered.com/app/1602930?snr=2_9_100000_",
+        "title": "Pedro's Adventures in Spanish"
+    },
+    {
+        "id": 26,
+        "storeUrl": "https://store.steampowered.com/app/1798820?snr=2_9_100000_",
+        "title": "RoboLingo"
+    },
+    {
+        "id": 27,
+        "storeUrl": "https://store.steampowered.com/app/1632490?snr=2_9_100000_",
+        "title": "Shashingo: Learn Japanese with Photography"
+    },
+    {
+        "id": 28,
+        "storeUrl": "https://store.steampowered.com/app/1183580?snr=2_9_100000_",
+        "title": "Terra Alia"
+    },
+    {
+        "id": 29,
+        "storeUrl": "https://store.steampowered.com/app/372720?snr=2_9_100000_",
+        "title": "The Language Game"
+    },
+    {
+        "id": 30,
+        "storeUrl": "https://store.steampowered.com/app/716560?snr=2_9_100000_",
+        "title": "Trancelation"
+    },
+    {
+        "id": 31,
+        "storeUrl": "https://store.steampowered.com/app/1031900?snr=2_9_100000_",
+        "title": "You Can Kana"
+    }
+]

@@ -34,7 +34,7 @@ for index, r in enumerate(results):
         }
     )
 
-jsonString = json.dumps(games, default=set_default)
+jsonString = json.dumps(games, default=set_default, indent = 4, sort_keys=True)
 jsonFile.write(jsonString) 
 
 jsonFile.close()
