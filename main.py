@@ -29,7 +29,7 @@ for index, r in enumerate(results):
     games.append(
         {
             'id': index,
-            'title': {gameTitle.strip()},
+            'title': gameTitle.strip(),
             'storeUrl': storeUrl
         }
     )
