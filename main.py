@@ -18,13 +18,14 @@ jsonFile = open(f'games.json', 'w')
 print("Writing file... ")
 
 for index, r in enumerate(results):
-    gameTitle = r.text
-    print(f"adding {index + 1}. {gameTitle.strip()}... ")
-    communityUrl = r.find("a", recursive=False)['href']
+    print(f"adding {index + 1}. {r.text.strip()}... ")
+    communityUrl = r.find("a", recursive = False)['href']
     singleGameResponse = requests.get(communityUrl)
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
-    result = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
-    storeUrl = result['href'].split('?')[0]
+    aTag = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
+    titleTag = gamePageHtml.find('div', {'class': 'apphub_AppName'})
+    gameTitle = titleTag.text
+    storeUrl = aTag['href'].split('?')[0]
     
     games.append(
         {
@@ -34,9 +35,9 @@ for index, r in enumerate(results):
         }
     )
 
-jsonString = json.dumps(games, default=set_default, indent = 4)
+jsonString = json.dumps(games, default = set_default, indent = 4)
 jsonFile.write(jsonString) 
 
 jsonFile.close()
 
-print("finished! file saved")
+print("Finished! File saved.")
