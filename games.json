@@ -161,21 +161,26 @@
     },
     {
         "id": 33,
+        "title": "So to Speak",
+        "storeUrl": "https://store.steampowered.com/app/1779030"
+    },
+    {
+        "id": 34,
         "title": "Terra Alia",
         "storeUrl": "https://store.steampowered.com/app/1183580"
     },
     {
-        "id": 34,
+        "id": 35,
         "title": "The Language Game",
         "storeUrl": "https://store.steampowered.com/app/372720"
     },
     {
-        "id": 35,
+        "id": 36,
         "title": "Trancelation",
         "storeUrl": "https://store.steampowered.com/app/716560"
     },
     {
-        "id": 36,
+        "id": 37,
         "title": "You Can Kana",
         "storeUrl": "https://store.steampowered.com/app/1031900"
     }
