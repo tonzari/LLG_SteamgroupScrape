@@ -111,76 +111,86 @@
     },
     {
         "id": 23,
+        "title": "Mini Words",
+        "storeUrl": "https://store.steampowered.com/app/1158290"
+    },
+    {
+        "id": 24,
+        "title": "Mini Words: Polyglot",
+        "storeUrl": "https://store.steampowered.com/app/1564550"
+    },
+    {
+        "id": 25,
         "title": "Mondly: Learn Languages in VR",
         "storeUrl": "https://store.steampowered.com/app/1141930"
     },
     {
-        "id": 24,
+        "id": 26,
         "title": "Newcomer",
         "storeUrl": "https://store.steampowered.com/app/2063790"
     },
     {
-        "id": 25,
+        "id": 27,
         "title": "Nihongo Heroes",
         "storeUrl": "https://store.steampowered.com/app/1794690"
     },
     {
-        "id": 26,
+        "id": 28,
         "title": "Nihongo Quest N5",
         "storeUrl": "https://store.steampowered.com/app/1556070"
     },
     {
-        "id": 27,
+        "id": 29,
         "title": "Noun Town",
         "storeUrl": "https://store.steampowered.com/app/1643100"
     },
     {
-        "id": 28,
+        "id": 30,
         "title": "Pedro's Adventures in Spanish",
         "storeUrl": "https://store.steampowered.com/app/1602930"
     },
     {
-        "id": 29,
+        "id": 31,
         "title": "Peter's Adventures in English",
         "storeUrl": "https://store.steampowered.com/app/1726360"
     },
     {
-        "id": 30,
+        "id": 32,
         "title": "Pierre's Adventures in French",
         "storeUrl": "https://store.steampowered.com/app/1948870"
     },
     {
-        "id": 31,
+        "id": 33,
         "title": "RoboLingo",
         "storeUrl": "https://store.steampowered.com/app/1798820"
     },
     {
-        "id": 32,
+        "id": 34,
         "title": "Shashingo: Learn Japanese with Photography",
         "storeUrl": "https://store.steampowered.com/app/1632490"
     },
     {
-        "id": 33,
+        "id": 35,
         "title": "So to Speak",
         "storeUrl": "https://store.steampowered.com/app/1779030"
     },
     {
-        "id": 34,
+        "id": 36,
         "title": "Terra Alia",
         "storeUrl": "https://store.steampowered.com/app/1183580"
     },
     {
-        "id": 35,
+        "id": 37,
         "title": "The Language Game",
         "storeUrl": "https://store.steampowered.com/app/372720"
     },
     {
-        "id": 36,
+        "id": 38,
         "title": "Trancelation",
         "storeUrl": "https://store.steampowered.com/app/716560"
     },
     {
-        "id": 37,
+        "id": 39,
         "title": "You Can Kana",
         "storeUrl": "https://store.steampowered.com/app/1031900"
     }
