@@ -3,264 +3,264 @@
         "id": 1,
         "title": "Backbone",
         "storeUrl": "https://store.steampowered.com/app/865610",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg?t=1662045980"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg"
     },
     {
         "id": 2,
         "title": "Common Hanzi Quiz - Simplified Chinese",
         "storeUrl": "https://store.steampowered.com/app/860030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg?t=1625403972"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
     },
     {
         "id": 3,
         "title": "Da! Russian Quiz",
         "storeUrl": "https://store.steampowered.com/app/1337200",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg?t=1625403952"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg"
     },
     {
         "id": 4,
         "title": "Dodgeball Academia",
         "storeUrl": "https://store.steampowered.com/app/1422420",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg?t=1659645152"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg"
     },
     {
         "id": 5,
         "title": "Earthlingo",
         "storeUrl": "https://store.steampowered.com/app/1071240",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg?t=1661871212"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg"
     },
     {
         "id": 6,
         "title": "Hiragana Katakana Ninja",
         "storeUrl": "https://store.steampowered.com/app/1628400",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg?t=1665000057"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg"
     },
     {
         "id": 7,
         "title": "Influent",
         "storeUrl": "https://store.steampowered.com/app/274980",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg?t=1670878089"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg"
     },
     {
         "id": 8,
         "title": "Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57",
         "storeUrl": "https://store.steampowered.com/app/843120",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg?t=1625403806"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
     },
     {
         "id": 9,
         "title": "Kana Quest",
         "storeUrl": "https://store.steampowered.com/app/725850",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg?t=1664665893"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg"
     },
     {
         "id": 10,
         "title": "Kanji in Motion",
         "storeUrl": "https://store.steampowered.com/app/1028770",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg?t=1564129408"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
     },
     {
         "id": 11,
         "title": "Kanji Training Game",
         "storeUrl": "https://store.steampowered.com/app/397210",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg?t=1488002205"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
     },
     {
         "id": 12,
         "title": "Koe (\u58f0)",
         "storeUrl": "https://store.steampowered.com/app/672430",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg?t=1652211801"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg"
     },
     {
         "id": 13,
         "title": "Language Lab",
         "storeUrl": "https://store.steampowered.com/app/2057000",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg?t=1669935843"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg"
     },
     {
         "id": 14,
         "title": "Learn Japanese RPG: Hiragana Forbidden Speech",
         "storeUrl": "https://store.steampowered.com/app/1114950",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg?t=1671318352"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg"
     },
     {
         "id": 15,
         "title": "Learn Japanese To Survive! Kanji Combat",
         "storeUrl": "https://store.steampowered.com/app/759440",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg?t=1667434737"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg"
     },
     {
         "id": 16,
         "title": "Learn Japanese To Survive! Katakana War",
         "storeUrl": "https://store.steampowered.com/app/554600",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg?t=1667434838"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg"
     },
     {
         "id": 17,
         "title": "Learn Japanese To Survive - Hiragana Battle",
         "storeUrl": "https://store.steampowered.com/app/438270",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg?t=1667434700"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg"
     },
     {
         "id": 18,
         "title": "Learn Spanish! Easy Vocabulary",
         "storeUrl": "https://store.steampowered.com/app/1117590",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg?t=1667763151"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg"
     },
     {
         "id": 19,
         "title": "Learn Spanish VR",
         "storeUrl": "https://store.steampowered.com/app/1378840",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg?t=1618762809"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg"
     },
     {
         "id": 20,
         "title": "Let's Learn Japanese! Hiragana",
         "storeUrl": "https://store.steampowered.com/app/997720",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg?t=1664114483"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg"
     },
     {
         "id": 21,
         "title": "Let's Learn Japanese! Katakana",
         "storeUrl": "https://store.steampowered.com/app/1018900",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg?t=1664118481"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg"
     },
     {
         "id": 22,
         "title": "Let's Learn Japanese! Vocabulary",
         "storeUrl": "https://store.steampowered.com/app/1208030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg?t=1667758102"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg"
     },
     {
         "id": 23,
         "title": "Lingotopia",
         "storeUrl": "https://store.steampowered.com/app/860640",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg?t=1535106480"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
     },
     {
         "id": 24,
         "title": "Linguist FPS - The Language Learning FPS",
         "storeUrl": "https://store.steampowered.com/app/1945590",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg?t=1666116707"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg"
     },
     {
         "id": 25,
         "title": "Milliopoly - Language Quiz and Learning",
         "storeUrl": "https://store.steampowered.com/app/1822010",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg?t=1662055444"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg"
     },
     {
         "id": 26,
         "title": "Mini Words",
         "storeUrl": "https://store.steampowered.com/app/1158290",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg?t=1636575666"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg"
     },
     {
         "id": 27,
         "title": "Mini Words: Polyglot",
         "storeUrl": "https://store.steampowered.com/app/1564550",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg?t=1635004292"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg"
     },
     {
         "id": 28,
         "title": "Mondly: Learn Languages in VR",
         "storeUrl": "https://store.steampowered.com/app/1141930",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg?t=1578998359"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg"
     },
     {
         "id": 29,
         "title": "Newcomer",
         "storeUrl": "https://store.steampowered.com/app/2063790",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg?t=1668480580"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg"
     },
     {
         "id": 30,
         "title": "Nihongo Heroes",
         "storeUrl": "https://store.steampowered.com/app/1794690",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg?t=1635925839"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg"
     },
     {
         "id": 31,
         "title": "Nihongo Quest N5",
         "storeUrl": "https://store.steampowered.com/app/1556070",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg?t=1667137561"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg"
     },
     {
         "id": 32,
         "title": "Noun Town",
         "storeUrl": "https://store.steampowered.com/app/1643100",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header.jpg?t=1671127417"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header.jpg"
     },
     {
         "id": 33,
         "title": "Pedro's Adventures in Spanish",
         "storeUrl": "https://store.steampowered.com/app/1602930",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg?t=1668703288"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg"
     },
     {
         "id": 34,
         "title": "Peter's Adventures in English",
         "storeUrl": "https://store.steampowered.com/app/1726360",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg?t=1666115995"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg"
     },
     {
         "id": 35,
         "title": "Pierre's Adventures in French",
         "storeUrl": "https://store.steampowered.com/app/1948870",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg?t=1666058467"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg"
     },
     {
         "id": 36,
         "title": "RoboLingo",
         "storeUrl": "https://store.steampowered.com/app/1798820",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg?t=1637984757"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg"
     },
     {
         "id": 37,
         "title": "Shashingo: Learn Japanese with Photography",
         "storeUrl": "https://store.steampowered.com/app/1632490",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg?t=1671551979"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg"
     },
     {
         "id": 38,
         "title": "Sheng Tian (\u5347\u5929) - Episode 1",
         "storeUrl": "https://store.steampowered.com/app/1338570",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg?t=1602443946"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg"
     },
     {
         "id": 39,
         "title": "Shujinkou",
         "storeUrl": "https://store.steampowered.com/app/1386630",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg?t=1671607769"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg"
     },
     {
         "id": 40,
         "title": "So to Speak",
         "storeUrl": "https://store.steampowered.com/app/1779030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg?t=1666905543"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg"
     },
     {
         "id": 41,
         "title": "Terra Alia",
         "storeUrl": "https://store.steampowered.com/app/1183580",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg?t=1624040315"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg"
     },
     {
         "id": 42,
         "title": "The Language Game",
         "storeUrl": "https://store.steampowered.com/app/372720",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg?t=1447374951"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
     },
     {
         "id": 43,
         "title": "Trancelation",
         "storeUrl": "https://store.steampowered.com/app/716560",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg?t=1667380018"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg"
     },
     {
         "id": 44,
         "title": "You Can Kana",
         "storeUrl": "https://store.steampowered.com/app/1031900",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg?t=1663369703"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg"
     }
 ]

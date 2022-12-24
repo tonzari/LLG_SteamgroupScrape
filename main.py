@@ -33,7 +33,7 @@ for index, r in enumerate(results):
     storePageResponse = requests.get(storeUrl)
     storePageHtml = BeautifulSoup(storePageResponse.text, features="html.parser")
     imgTag = storePageHtml.find('img', {'class': 'game_header_image_full'})
-    imgSrc = imgTag['src']
+    imgSrc = imgTag['src'].split('?')[0]
     
     
     games.append(
