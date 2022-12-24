@@ -29,17 +29,28 @@ for index, r in enumerate(results):
     gameTitle = titleTag.text.strip()
     storeUrl = aTag['href'].split('?')[0]   # Split store URL at ? mark to remove personalized identification number
 
-    # Get game store image src url
+    # Get single game store page html
     storePageResponse = requests.get(storeUrl)
     storePageHtml = BeautifulSoup(storePageResponse.text, features="html.parser")
+    
+    # Get game store image url
     imgTag = storePageHtml.find('img', {'class': 'game_header_image_full'})
     imgSrc = imgTag['src'].split('?')[0]
     
+    # Get game store description snippet
+    descTag = storePageHtml.find('div', {'class': 'game_description_snippet'})
+    description = descTag.text.strip()
+
+    # Get game store release date
+    dateTag = storePageHtml.find('div', {'class': 'date'})
+    releaseDate = dateTag.text.strip()
     
     games.append(
         {
             'id': index + 1,
+            'description': description,
             'title': gameTitle,
+            'releaseDate': releaseDate,
             'storeUrl': storeUrl,
             'imageUrl': imgSrc
         }
