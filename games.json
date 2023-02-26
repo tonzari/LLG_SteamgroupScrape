@@ -273,6 +273,14 @@
     },
     {
         "id": 35,
+        "description": "Noun Town Language Learning is the new way to learn a foreign language! Interact, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more\u2026",
+        "title": "Noun Town Language Learning",
+        "releaseDate": "June 2023",
+        "storeUrl": "https://store.steampowered.com/app/2313720",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg"
+    },
+    {
+        "id": 36,
         "description": "Want to improve your Spanish? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? \u00a1Felicidades amigos! This is the game for you.",
         "title": "Pedro's Adventures in Spanish",
         "releaseDate": "Jul 29, 2021",
@@ -280,7 +288,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg"
     },
     {
-        "id": 36,
+        "id": 37,
         "description": "Take control of Peter as he travels across the kingdom, solving puzzles, making friends and defeating monsters. This game is designed to be accessible to a very broad range of players, including young children and people learning English as a second language.",
         "title": "Peter's Adventures in English",
         "releaseDate": "Nov 11, 2021",
@@ -288,7 +296,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg"
     },
     {
-        "id": 37,
+        "id": 38,
         "description": "Want to improve your French? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? F\u00e9licitations ! This is the game for you.",
         "title": "Pierre's Adventures in French",
         "releaseDate": "Oct 14, 2022",
@@ -296,7 +304,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg"
     },
     {
-        "id": 38,
+        "id": 39,
         "description": "RoboLingo is a fun rhythm game that teaches you new languages! RoboLingo uses a unique patented technology that will help you learn English, Spanish, German, French, Italian, Russian, Chinese, Japanese, or Korean.",
         "title": "RoboLingo",
         "releaseDate": "Nov 24, 2021",
@@ -304,7 +312,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg"
     },
     {
-        "id": 39,
+        "id": 40,
         "description": "Shashingo is an edutainment game that teaches you Japanese through virtual photography. With your trusty camera, take photographs of the fictional streets of Japan to capture new words and images as fully translated flash cards!",
         "title": "Shashingo: Learn Japanese with Photography",
         "releaseDate": "2023",
@@ -312,7 +320,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg"
     },
     {
-        "id": 40,
+        "id": 41,
         "description": "Sheng Tian (\u5347\u5929) - Episode 1 is a 3D sci-fi game for learning Taiwanese Mandarin. Characters are also used in Hong Kong, Singapore, Malaysia, Macau, China, and Japan. Pronunciation is common to Taiwan and China. Puzzle your way through 7 environments and acquire 50 terms.",
         "title": "Sheng Tian (\u5347\u5929) - Episode 1",
         "releaseDate": "Oct 1, 2020",
@@ -320,7 +328,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg"
     },
     {
-        "id": 41,
+        "id": 42,
         "description": "Shujinkou is a story-driven, turn-based dungeon crawling JRPG that provides players with the opportunity to learn Japanese. Aiming to appeal to both speakers and non-speakers of Japanese, play as Shu, Jin, and Kou as you try to save the world from the Akuma!",
         "title": "Shujinkou",
         "releaseDate": "2023",
@@ -328,7 +336,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg"
     },
     {
-        "id": 42,
+        "id": 43,
         "description": "Can you learn Japanese by solving puzzles? So to Speak is a game about wandering in Japan, looking at signs, overhearing conversations, and using context clues in the environment to figure out what it all means. No background in Japanese is assumed.",
         "title": "So to Speak",
         "releaseDate": "2023",
@@ -336,7 +344,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg"
     },
     {
-        "id": 43,
+        "id": 44,
         "description": "You\u2019ve arrived at Terra Alia, a world where magic and technology shape the future. Embark on an adventure and solve a thrilling mystery while practicing a new language in this top-down RPG!",
         "title": "Terra Alia",
         "releaseDate": "May 14, 2021",
@@ -344,7 +352,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg"
     },
     {
-        "id": 44,
+        "id": 45,
         "description": "The Language Game is a 2 player quiz-style game that will improve your vocabulary and pronunciation as you play. Our innovative system lets you learn from any language to any other language, so each player can learn a different language.",
         "title": "The Language Game",
         "releaseDate": "Jul 9, 2015",
@@ -352,7 +360,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
     },
     {
-        "id": 45,
+        "id": 46,
         "description": "A dynamic arcade game set in a neon universe full of fractals and translations! Boost your memory, develop new skills, and improve your scores to become a master of Trancelation in this ever-changing journey through linguistics!",
         "title": "Trancelation",
         "releaseDate": "Mar 12, 2019",
@@ -360,7 +368,7 @@
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg"
     },
     {
-        "id": 46,
+        "id": 47,
         "description": "Learn and master the japanese phonetic alphabets at your own pace with this meditative language learning tool.",
         "title": "You Can Kana",
         "releaseDate": "Aug 11, 2021",
