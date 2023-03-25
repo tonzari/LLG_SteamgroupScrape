@@ -28,6 +28,21 @@ def get_page(url, retries=5, wait_time=5):
     # If all retries failed, return None
     return None
 
+def get_valid_image_url(url, fallback_url):
+    try:
+        response = requests.head(url)
+
+        # Check if the status code is in the 2xx range (successful)
+        if response.status_code // 100 == 2:
+            print(f"Image URL is valid: {url}")
+            return url
+        else:
+            print(f"Image URL is not valid, status code: {response.status_code}")
+            return fallback_url
+    except requests.exceptions.RequestException as e:
+        print(f"Error checking image URL: {e}")
+        return fallback_url
+
 # Set Steam Group URL, find the associated games list, store it in results
 groupUrl = 'https://steamcommunity.com/groups/LanguageLearningGames'
 groupPageResponse = requests.get(groupUrl)
@@ -78,7 +93,7 @@ for index, r in enumerate(results):
 
     # Find game app id to build library image url
     gameAppId = storeUrl.split("/")[4]
-    libImgSrc = f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg'
+    libImgSrc =  get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
     
     games.append(
         {

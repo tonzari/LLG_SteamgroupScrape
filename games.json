@@ -15,7 +15,7 @@
         "releaseDate": "May 21, 2018",
         "storeUrl": "https://store.steampowered.com/app/860030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/860030/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
     },
     {
         "id": 3,
@@ -105,7 +105,7 @@
         "releaseDate": "Apr 25, 2018",
         "storeUrl": "https://store.steampowered.com/app/843120",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/843120/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
     },
     {
         "id": 13,
@@ -132,7 +132,7 @@
         "releaseDate": "Jul 26, 2019",
         "storeUrl": "https://store.steampowered.com/app/1028770",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1028770/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "releaseDate": "Sep 23, 2015",
         "storeUrl": "https://store.steampowered.com/app/397210",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/397210/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
     },
     {
         "id": 17,
@@ -267,7 +267,7 @@
         "releaseDate": "Aug 16, 2018",
         "storeUrl": "https://store.steampowered.com/app/860640",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/860640/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
     },
     {
         "id": 31,
@@ -465,7 +465,7 @@
         "releaseDate": "Jul 9, 2015",
         "storeUrl": "https://store.steampowered.com/app/372720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/372720/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
     },
     {
         "id": 53,
