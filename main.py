@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 from bs4 import BeautifulSoup
 
 # Helper function: https://stackoverflow.com/questions/22281059/set-object-is-not-json-serializable
@@ -7,6 +8,25 @@ def set_default(obj):
     if isinstance(obj, set):
         return list(obj)
     raise TypeError
+
+def get_page(url, retries=5, wait_time=5):
+    for i in range(retries):
+        try:
+            response = requests.get(url)
+
+            # Check if the status code indicates success (2xx)
+            if response.status_code // 100 == 2:
+                return response
+            else:
+                print(f"Unexpected error, status code: {response.status_code}. Retrying... ({i + 1}/{retries})")
+        except requests.exceptions.RequestException as e:
+            print(f"Request error: {e}. Retrying... ({i + 1}/{retries})")
+
+        # Wait before trying again
+        time.sleep(wait_time)
+
+    # If all retries failed, return None
+    return None
 
 # Set Steam Group URL, find the associated games list, store it in results
 groupUrl = 'https://steamcommunity.com/groups/LanguageLearningGames'
@@ -20,30 +40,45 @@ jsonFile = open(f'games.json', 'w')
 print("\nWriting file...\n")
 
 for index, r in enumerate(results):
+
     print(f"adding {index + 1}. {r.text.strip()}... ", end=" ")
+
+    # Get URL to game (this is a community page URL)
     communityUrl = r.find("a", recursive = False)['href']
-    singleGameResponse = requests.get(communityUrl)
+
+    # Parse HTML of community page
+    singleGameResponse =  get_page(communityUrl)
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
-    aTag = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
+
+    # Fint game title
     titleTag = gamePageHtml.find('div', {'class': 'apphub_AppName'})
     gameTitle = titleTag.text.strip()
-    storeUrl = aTag['href'].split('?')[0]   # Split store URL at ? mark to remove personalized identification number
 
-    # Get single game store page html
-    storePageResponse = requests.get(storeUrl)
+    # Find game store URL
+    aTag = gamePageHtml.find('a', {'id': 'app_header_view_store_page_btn'})
+
+    # Split store URL at ? mark to remove personalized identification number
+    storeUrl = aTag['href'].split('?')[0]   
+
+    # Parse HTML of store page
+    storePageResponse = get_page(storeUrl)
     storePageHtml = BeautifulSoup(storePageResponse.text, features="html.parser")
     
-    # Get game store image url
+    # Find game store image url
     imgTag = storePageHtml.find('img', {'class': 'game_header_image_full'})
     imgSrc = imgTag['src'].split('?')[0]
     
-    # Get game store description snippet
+    # Find game store description snippet
     descTag = storePageHtml.find('div', {'class': 'game_description_snippet'})
     description = descTag.text.strip()
 
-    # Get game store release date
+    # Find game store release date
     dateTag = storePageHtml.find('div', {'class': 'date'})
     releaseDate = dateTag.text.strip()
+
+    # Find game app id to build library image url
+    gameAppId = storeUrl.split("/")[4]
+    libImgSrc = f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg'
     
     games.append(
         {
@@ -52,7 +87,8 @@ for index, r in enumerate(results):
             'title': gameTitle,
             'releaseDate': releaseDate,
             'storeUrl': storeUrl,
-            'imageUrl': imgSrc
+            'imageUrl': imgSrc,
+            'libraryImageUrl': libImgSrc
         }
     )
     print("done!")
@@ -63,3 +99,11 @@ jsonFile.write(jsonString)
 jsonFile.close()
 
 print("\nFinished! File saved.\n")
+
+## Save all images
+
+
+# to do
+# get library assets:
+# --  https://steamcdn-a.akamaihd.net/steam/apps/<APP_ID>/library_600x900_2x.jpg
+# --  https://steamcdn-a.akamaihd.net/steam/apps/<APP_ID>/library_hero.jpg

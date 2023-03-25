@@ -5,7 +5,8 @@
         "title": "Backbone",
         "releaseDate": "Jun 8, 2021",
         "storeUrl": "https://store.steampowered.com/app/865610",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "title": "Common Hanzi Quiz - Simplified Chinese",
         "releaseDate": "May 21, 2018",
         "storeUrl": "https://store.steampowered.com/app/860030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/860030/library_600x900_2x.jpg"
     },
     {
         "id": 3,
@@ -21,390 +23,466 @@
         "title": "Da! Russian Quiz",
         "releaseDate": "Jun 16, 2020",
         "storeUrl": "https://store.steampowered.com/app/1337200",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_600x900_2x.jpg"
     },
     {
         "id": 4,
+        "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You\u2019re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
+        "title": "Disco Elysium",
+        "releaseDate": "Oct 15, 2019",
+        "storeUrl": "https://store.steampowered.com/app/632470",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header_alt_assets_10.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg"
+    },
+    {
+        "id": 5,
         "description": "Dodgeball Academia is a sports RPG game featuring rookie dodgeball student, Otto. Join Otto and an eclectic cast of characters as they train to dominate on and off the courts of the academia.",
         "title": "Dodgeball Academia",
         "releaseDate": "Aug 5, 2021",
         "storeUrl": "https://store.steampowered.com/app/1422420",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_600x900_2x.jpg"
     },
     {
-        "id": 5,
+        "id": 6,
         "description": "Addictive game for language learning",
         "title": "Earthlingo",
         "releaseDate": "Aug 6, 2019",
         "storeUrl": "https://store.steampowered.com/app/1071240",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_600x900_2x.jpg"
     },
     {
-        "id": 6,
+        "id": 7,
         "description": "This game complements your Japanese language studies by offering a fun way to fixate the Hiragana and Katakana syllabaries.",
         "title": "Hiragana Katakana Ninja",
         "releaseDate": "May 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1628400",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_600x900_2x.jpg"
     },
     {
-        "id": 7,
+        "id": 8,
         "description": "Travel back in time to help defend Hua Mulan against evil time bandits all while learning Chinese in this story-driven, role-playing, open 3D world episodic adventure.",
         "title": "Hua Mulan: A Chinese Learning Adventure",
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/1251360",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1251360/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1251360/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_600x900_2x.jpg"
     },
     {
-        "id": 8,
+        "id": 9,
         "description": "Influent is a Language Learning Game focused on vocabulary acquisition and pronunciation that gives players the freedom to choose what words they want to learn without any need for pencils or books!",
         "title": "Influent",
         "releaseDate": "Mar 20, 2014",
         "storeUrl": "https://store.steampowered.com/app/274980",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_600x900_2x.jpg"
     },
     {
-        "id": 9,
+        "id": 10,
+        "description": "An RPG in which you learn Japanese using romaji characters i.e. English letters. It is set in the 1800's and is an epic adventure that will teach you about Japanese history and the language. In a matter of hours you could be speaking Japanese.",
+        "title": "Japanese Romaji Adventure",
+        "releaseDate": "Aug 28, 2020",
+        "storeUrl": "https://store.steampowered.com/app/1388720",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1388720/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_600x900_2x.jpg"
+    },
+    {
+        "id": 11,
+        "description": "An RPG where you learn Japanese using romaji (i.e. English letters). It is set in the 1800's and is an epic adventure that will teach you about Japanese history and Japanese language. In a matter of hours you could be speaking Japanese.",
+        "title": "Japanese Romaji Adventure 3D",
+        "releaseDate": "To be announced",
+        "storeUrl": "https://store.steampowered.com/app/1948940",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948940/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_600x900_2x.jpg"
+    },
+    {
+        "id": 12,
         "description": "A quiz that helps you review all Japanese characters that kids must learn when they go to school. From 1st grade all the way to secondary school, you can learn all 2,136 Joyo Kanji, their meanings and pronunciations.",
         "title": "Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57",
         "releaseDate": "Apr 25, 2018",
         "storeUrl": "https://store.steampowered.com/app/843120",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/843120/library_600x900_2x.jpg"
     },
     {
-        "id": 10,
+        "id": 13,
         "description": "A Kawaii Kana Match-Em Up. Learn Japanese. Match Kana (Japanese letters) with their sounds. Solve Puzzles.Your quest to learn Japanese starts now!",
         "title": "Kana Quest",
         "releaseDate": "Mar 12, 2020",
         "storeUrl": "https://store.steampowered.com/app/725850",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_600x900_2x.jpg"
     },
     {
-        "id": 11,
+        "id": 14,
         "description": "Supplement your Japanese practice with this arcade driving game. Learn common kanji, hiragana, words, and verbs while having fun. Go through flashcards effortlessly.",
         "title": "Kanji Drive",
         "releaseDate": "Jan 8, 2023",
         "storeUrl": "https://store.steampowered.com/app/2219640",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2219640/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2219640/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_600x900_2x.jpg"
     },
     {
-        "id": 12,
+        "id": 15,
         "description": "Kanji in Motion is a program for learning to read, in a game-like way, the characters of the two sets of kana, plus the 2,136 J\u014dy\u014d Kanji. The task of the player-learner is to quickly identify characters that move across a playing field and match them to their respective reading and meaning.",
         "title": "Kanji in Motion",
         "releaseDate": "Jul 26, 2019",
         "storeUrl": "https://store.steampowered.com/app/1028770",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1028770/library_600x900_2x.jpg"
     },
     {
-        "id": 13,
+        "id": 16,
         "description": "Kanji Training Game is a game that helps you learn the Japanese writing system in the form of a game. Memorize 1006 symbols of Kanji, Katakana and Hiragana, and level up as you advance through the increasingly complex alphabet and words of the Japanese language.",
         "title": "Kanji Training Game",
         "releaseDate": "Sep 23, 2015",
         "storeUrl": "https://store.steampowered.com/app/397210",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/397210/library_600x900_2x.jpg"
     },
     {
-        "id": 14,
+        "id": 17,
         "description": "Koe (\u58f0) is a JRPG with the Japanese language at the core of gameplay. Koe (\u58f0) combines traditional RPG gameplay with communicative language learning techniques to bring you a truly unique and rewarding gaming, language and story experience.",
         "title": "Koe (\u58f0)",
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/672430",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_600x900_2x.jpg"
     },
     {
-        "id": 15,
+        "id": 18,
         "description": "A stop motion animated language learning adventure game. Aliens have crash landed in your back garden and you must help them return home. Go on an adventure in a handmade town full of colourful characters and learn a new language on the way!",
         "title": "Language Adventure",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2204770",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2204770/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2204770/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_600x900_2x.jpg"
     },
     {
-        "id": 16,
+        "id": 19,
         "description": "Not your standard language learning application. This is the CrossFit of language learning apps. No multiple choice exercises, no grammar written out for you. Just you and the language, the same way you learned your first one.",
         "title": "Language Lab",
         "releaseDate": "Jul 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/2057000",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_600x900_2x.jpg"
     },
     {
-        "id": 17,
+        "id": 20,
         "description": "Learn foreign language vocabulary while playing an arcade game. Supports Spanish, French, German, and Latin vocabulary. Study anywhere from the most common fifty words up to the most common one thousand words.",
         "title": "Language Worm",
         "releaseDate": "Oct 18, 2019",
         "storeUrl": "https://store.steampowered.com/app/1169050",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1169050/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1169050/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_600x900_2x.jpg"
     },
     {
-        "id": 18,
+        "id": 21,
         "description": "Dialogue changes from English to Japanese as you learn and progress in this comedic RPG backed by professional Japanese voice acting. This is a full introductory Japanese course and adventure all in one. Master hiragana, basic grammar, and over 240 common words used in anime!",
         "title": "Learn Japanese RPG: Hiragana Forbidden Speech",
         "releaseDate": "Oct 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1114950",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_600x900_2x.jpg"
     },
     {
-        "id": 19,
+        "id": 22,
         "description": "Learn Japanese kanji in this interactive role-playing game! No experience needed \u2013 start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Kanji Combat",
         "releaseDate": "Aug 1, 2018",
         "storeUrl": "https://store.steampowered.com/app/759440",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_600x900_2x.jpg"
     },
     {
-        "id": 20,
+        "id": 23,
         "description": "Learn the basics of Japanese in this interactive role-playing game! No experience needed \u2013 start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Katakana War",
         "releaseDate": "Jan 30, 2017",
         "storeUrl": "https://store.steampowered.com/app/554600",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_600x900_2x.jpg"
     },
     {
-        "id": 21,
+        "id": 24,
         "description": "The ideal introductory course to the Japanese language! Learn how to read and write Japanese characters (Hiragana) at a steady pace. A full-blown RPG specifically designed to keep you engaged. By playing along, you\u2019re going to be introduced to the Japanese language like never before!",
         "title": "Learn Japanese To Survive - Hiragana Battle",
         "releaseDate": "Feb 16, 2016",
         "storeUrl": "https://store.steampowered.com/app/438270",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_600x900_2x.jpg"
     },
     {
-        "id": 22,
+        "id": 25,
         "description": "Learn over 200 Spanish words with authentic native pronunciation, mini-games and total immersion in Spanish.",
         "title": "Learn Spanish! Easy Vocabulary",
         "releaseDate": "Aug 27, 2019",
         "storeUrl": "https://store.steampowered.com/app/1117590",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_600x900_2x.jpg"
     },
     {
-        "id": 23,
+        "id": 26,
         "description": "Experience a virtual environment full with objects to interact and learn. designed for people that wants to learn Spanish or wants to recover speech it is a good tool to help. thanks for your support",
         "title": "Learn Spanish VR",
         "releaseDate": "Sep 17, 2020",
         "storeUrl": "https://store.steampowered.com/app/1378840",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_600x900_2x.jpg"
     },
     {
-        "id": 24,
+        "id": 27,
         "description": "Want to learn to read Japanese? Let's start with hiragana! Learn the Japanese alphabet through puzzles and arcade-style challenges.",
         "title": "Let's Learn Japanese! Hiragana",
         "releaseDate": "Jan 3, 2019",
         "storeUrl": "https://store.steampowered.com/app/997720",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_600x900_2x.jpg"
     },
     {
-        "id": 25,
+        "id": 28,
         "description": "Want to read Japanese? Let's learn katakana! Learn the whole katakana alphabet through puzzles and arcade-style challenges.",
         "title": "Let's Learn Japanese! Katakana",
         "releaseDate": "Mar 13, 2019",
         "storeUrl": "https://store.steampowered.com/app/1018900",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_600x900_2x.jpg"
     },
     {
-        "id": 26,
+        "id": 29,
         "description": "Learn over 200 Japanese words by completing fun challenges. Unlock mini-games, art and music.",
         "title": "Let's Learn Japanese! Vocabulary",
         "releaseDate": "Dec 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1208030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_600x900_2x.jpg"
     },
     {
-        "id": 27,
+        "id": 30,
         "description": "Lingotopia is a language learning game about being lost in a city where you don't speak the language. Learn Chinese, French, German, Japanese, Russian, Spanish and more!",
         "title": "Lingotopia",
         "releaseDate": "Aug 16, 2018",
         "storeUrl": "https://store.steampowered.com/app/860640",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/860640/library_600x900_2x.jpg"
     },
     {
-        "id": 28,
+        "id": 31,
         "description": "A simple indie quality FPS designed as an introduction to language learning (solo developed). All 16 languages are included with full voice acting. Use your newfound language skills to save the city from an army of killer robots! Choose from Japanese, Russian, French, Spanish, Ukrainian and more.",
         "title": "Linguist FPS - The Language Learning FPS",
         "releaseDate": "May 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1945590",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_600x900_2x.jpg"
     },
     {
-        "id": 29,
+        "id": 32,
         "description": "Lost Abroad Caf\u00e9: a language learning game that puts you in the role of a virtual caf\u00e9 owner in another country. Learn and use your new language to serve your customers and grow your business. Try it now on Steam Early Access!",
         "title": "Lost Abroad Caf\u00e9",
         "releaseDate": "Dec 30, 2022",
         "storeUrl": "https://store.steampowered.com/app/2236490",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2236490/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2236490/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_600x900_2x.jpg"
     },
     {
-        "id": 30,
+        "id": 33,
         "description": "Become a millionaire by using your foreign language knowledge. Invite your friends and family!",
         "title": "Milliopoly - Language Quiz and Learning",
         "releaseDate": "Aug 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/1822010",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_600x900_2x.jpg"
     },
     {
-        "id": 31,
+        "id": 34,
         "description": "721 words. That is enough to cover 90% of conversations in English. Unscramble those words in Mini Words - a unique mix of puzzle, word search and hangman.",
         "title": "Mini Words",
         "releaseDate": "Oct 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1158290",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_600x900_2x.jpg"
     },
     {
-        "id": 32,
+        "id": 35,
         "description": "The most used nouns in English. Can you recognize them in another language? Unscramble frequently used words in a unique mix of logic puzzle, word search, and hangman.",
         "title": "Mini Words: Polyglot",
         "releaseDate": "Mar 18, 2021",
         "storeUrl": "https://store.steampowered.com/app/1564550",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_600x900_2x.jpg"
     },
     {
-        "id": 33,
+        "id": 36,
         "description": "Experience the ultimate way to learn languages, without leaving home! Enjoy talking to our virtual characters and gain confidence for real life situations. Get instant feedback on your pronunciation, enrich your vocabulary and discover the fun in learning languages! Fluency in 30 languages awaits!",
         "title": "Mondly: Learn Languages in VR",
         "releaseDate": "Feb 1, 2017",
         "storeUrl": "https://store.steampowered.com/app/1141930",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_600x900_2x.jpg"
     },
     {
-        "id": 34,
+        "id": 37,
         "description": "\u2728A fantasy language learning adventure where you learn a second language to save the the kingdom and befriend its people! \ud83c\udfae",
         "title": "Newcomer",
         "releaseDate": "Nov 1, 2023",
         "storeUrl": "https://store.steampowered.com/app/2063790",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg"
     },
     {
-        "id": 35,
+        "id": 38,
         "description": "Learn Japanese language in a fun way! Smart learning system that teach vocabularies with Japanese alphabet: Hiragana, Katakana and Kanji.",
         "title": "Nihongo Heroes",
         "releaseDate": "Nov 3, 2021",
         "storeUrl": "https://store.steampowered.com/app/1794690",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_600x900_2x.jpg"
     },
     {
-        "id": 36,
+        "id": 39,
         "description": "Learn Japanese through gaming! Nihongo Quest is a colorful JRPG that will teach you over 1000 Japanese words and characters. Explore the world of Gakush\u016b as you battle, race, and draw your way to victory! Teaches up to the JLPT N5 level of Japanese.",
         "title": "Nihongo Quest N5",
         "releaseDate": "Q3 2023",
         "storeUrl": "https://store.steampowered.com/app/1556070",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_600x900_2x.jpg"
     },
     {
-        "id": 37,
+        "id": 40,
         "description": "Noun Town: VR Language Learning is the new way to learn a foreign language! Pick things up, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more\u2026",
         "title": "Noun Town",
         "releaseDate": "Dec 15, 2022",
         "storeUrl": "https://store.steampowered.com/app/1643100",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_0.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_0.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg"
     },
     {
-        "id": 38,
+        "id": 41,
         "description": "Noun Town Language Learning is the new way to learn a foreign language! Interact, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more\u2026",
         "title": "Noun Town Language Learning",
         "releaseDate": "June 2023",
         "storeUrl": "https://store.steampowered.com/app/2313720",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg"
     },
     {
-        "id": 39,
+        "id": 42,
         "description": "Want to improve your Spanish? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? \u00a1Felicidades amigos! This is the game for you.",
         "title": "Pedro's Adventures in Spanish",
         "releaseDate": "Jul 29, 2021",
         "storeUrl": "https://store.steampowered.com/app/1602930",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_600x900_2x.jpg"
     },
     {
-        "id": 40,
+        "id": 43,
         "description": "Take control of Peter as he travels across the kingdom, solving puzzles, making friends and defeating monsters. This game is designed to be accessible to a very broad range of players, including young children and people learning English as a second language.",
         "title": "Peter's Adventures in English",
         "releaseDate": "Nov 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1726360",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_600x900_2x.jpg"
     },
     {
-        "id": 41,
+        "id": 44,
         "description": "Want to improve your French? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? F\u00e9licitations ! This is the game for you.",
         "title": "Pierre's Adventures in French",
         "releaseDate": "Oct 14, 2022",
         "storeUrl": "https://store.steampowered.com/app/1948870",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_600x900_2x.jpg"
     },
     {
-        "id": 42,
+        "id": 45,
         "description": "RoboLingo is a fun rhythm game that teaches you new languages! RoboLingo uses a unique patented technology that will help you learn English, Spanish, German, French, Italian, Russian, Chinese, Japanese, or Korean.",
         "title": "RoboLingo",
         "releaseDate": "Nov 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1798820",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_600x900_2x.jpg"
     },
     {
-        "id": 43,
+        "id": 46,
         "description": "Shashingo is an edutainment game that teaches you Japanese through virtual photography. With your trusty camera, take photographs of the fictional streets of Japan to capture new words and images as fully translated flash cards!",
         "title": "Shashingo: Learn Japanese with Photography",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1632490",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_600x900_2x.jpg"
     },
     {
-        "id": 44,
+        "id": 47,
         "description": "Sheng Tian (\u5347\u5929) - Episode 1 is a 3D sci-fi game for learning Taiwanese Mandarin. Characters are also used in Hong Kong, Singapore, Malaysia, Macau, China, and Japan. Pronunciation is common to Taiwan and China. Puzzle your way through 7 environments and acquire 50 terms.",
         "title": "Sheng Tian (\u5347\u5929) - Episode 1",
         "releaseDate": "Oct 1, 2020",
         "storeUrl": "https://store.steampowered.com/app/1338570",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_600x900_2x.jpg"
     },
     {
-        "id": 45,
+        "id": 48,
         "description": "Shujinkou is a story-driven, turn-based dungeon crawling JRPG that provides players with the opportunity to learn Japanese. Aiming to appeal to both speakers and non-speakers of Japanese, play as Shu, Jin, and Kou as you try to save the world from the Akuma!",
         "title": "Shujinkou",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1386630",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_600x900_2x.jpg"
     },
     {
-        "id": 46,
+        "id": 49,
         "description": "Can you learn Japanese by solving puzzles? So to Speak is a game about wandering in Japan, looking at signs, overhearing conversations, and using context clues in the environment to figure out what it all means. No background in Japanese is assumed.",
         "title": "So to Speak",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1779030",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_600x900_2x.jpg"
     },
     {
-        "id": 47,
+        "id": 50,
         "description": "Tango Senshi \u5358\u8a9e\u6226\u58eb is a retro top down RPG game centered about exploration, finding vocab words in the world by interacting with objects, and using the vocab you learned to gain advantage when battling! You will also unravel the mystery of your past, save the citizens, and become a hero!",
         "title": "Tango Senshi \u5358\u8a9e\u6226\u58eb : A Japanese Vocab Learning RPG",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2340320",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340320/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340320/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_600x900_2x.jpg"
     },
     {
-        "id": 48,
+        "id": 51,
         "description": "You\u2019ve arrived at Terra Alia, a world where magic and technology shape the future. Embark on an adventure and solve a thrilling mystery while practicing a new language in this top-down RPG!",
         "title": "Terra Alia",
         "releaseDate": "May 14, 2021",
         "storeUrl": "https://store.steampowered.com/app/1183580",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_600x900_2x.jpg"
     },
     {
-        "id": 49,
+        "id": 52,
         "description": "The Language Game is a 2 player quiz-style game that will improve your vocabulary and pronunciation as you play. Our innovative system lets you learn from any language to any other language, so each player can learn a different language.",
         "title": "The Language Game",
         "releaseDate": "Jul 9, 2015",
         "storeUrl": "https://store.steampowered.com/app/372720",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/372720/library_600x900_2x.jpg"
     },
     {
-        "id": 50,
+        "id": 53,
         "description": "A dynamic arcade game set in a neon universe full of fractals and translations! Boost your memory, develop new skills, and improve your scores to become a master of Trancelation in this ever-changing journey through linguistics!",
         "title": "Trancelation",
         "releaseDate": "Mar 12, 2019",
         "storeUrl": "https://store.steampowered.com/app/716560",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_600x900_2x.jpg"
     },
     {
-        "id": 51,
+        "id": 54,
         "description": "Learn and master the japanese phonetic alphabets at your own pace with this meditative language learning tool.",
         "title": "You Can Kana",
         "releaseDate": "Aug 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1031900",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg"
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_600x900_2x.jpg"
     }
 ]
