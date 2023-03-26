@@ -34,7 +34,6 @@ def get_valid_image_url(url, fallback_url):
 
         # Check if the status code is in the 2xx range (successful)
         if response.status_code // 100 == 2:
-            print(f"Image URL is valid: {url}")
             return url
         else:
             print(f"Image URL is not valid, status code: {response.status_code}")
@@ -43,15 +42,17 @@ def get_valid_image_url(url, fallback_url):
         print(f"Error checking image URL: {e}")
         return fallback_url
 
+games = []
+
+
 # Set Steam Group URL, find the associated games list, store it in results
 groupUrl = 'https://steamcommunity.com/groups/LanguageLearningGames'
 groupPageResponse = requests.get(groupUrl)
 groupPageHtml = BeautifulSoup(groupPageResponse.text, features='html.parser')
 results = groupPageHtml.find_all('div', {'class': 'group_associated_game'})
 
-games = []
-
 jsonFile = open(f'games.json', 'w')
+
 print("\nWriting file...\n")
 
 for index, r in enumerate(results):
@@ -91,9 +92,10 @@ for index, r in enumerate(results):
     dateTag = storePageHtml.find('div', {'class': 'date'})
     releaseDate = dateTag.text.strip()
 
-    # Find game app id to build library image url
+    # Find game app id to build library image urls
     gameAppId = storeUrl.split("/")[4]
     libImgSrc =  get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
+    libHeroImgSrc = get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_hero.jpg', imgSrc)
     
     games.append(
         {
@@ -103,7 +105,8 @@ for index, r in enumerate(results):
             'releaseDate': releaseDate,
             'storeUrl': storeUrl,
             'imageUrl': imgSrc,
-            'libraryImageUrl': libImgSrc
+            'libraryImageUrl': libImgSrc,
+            'libraryHeroImageUrl': libHeroImgSrc 
         }
     )
     print("done!")
@@ -115,10 +118,7 @@ jsonFile.close()
 
 print("\nFinished! File saved.\n")
 
-## Save all images
-
-
-# to do
-# get library assets:
-# --  https://steamcdn-a.akamaihd.net/steam/apps/<APP_ID>/library_600x900_2x.jpg
-# --  https://steamcdn-a.akamaihd.net/steam/apps/<APP_ID>/library_hero.jpg
+# todo: 
+# handle missing library images (capsule and hero)
+# if capsule is missing, use store image centered, but fill background with color gradient
+# if hero is missing, grab store screenshot image

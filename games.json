@@ -6,7 +6,8 @@
         "releaseDate": "Jun 8, 2021",
         "storeUrl": "https://store.steampowered.com/app/865610",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "releaseDate": "May 21, 2018",
         "storeUrl": "https://store.steampowered.com/app/860030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "releaseDate": "Jun 16, 2020",
         "storeUrl": "https://store.steampowered.com/app/1337200",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_hero.jpg"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "releaseDate": "Oct 15, 2019",
         "storeUrl": "https://store.steampowered.com/app/632470",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header_alt_assets_10.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_hero.jpg"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "releaseDate": "Aug 5, 2021",
         "storeUrl": "https://store.steampowered.com/app/1422420",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_hero.jpg"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "releaseDate": "Aug 6, 2019",
         "storeUrl": "https://store.steampowered.com/app/1071240",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_hero.jpg"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "releaseDate": "May 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1628400",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_hero.jpg"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/1251360",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1251360/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_hero.jpg"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "releaseDate": "Mar 20, 2014",
         "storeUrl": "https://store.steampowered.com/app/274980",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_hero.jpg"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "releaseDate": "Aug 28, 2020",
         "storeUrl": "https://store.steampowered.com/app/1388720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1388720/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_hero.jpg"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/1948940",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948940/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_hero.jpg"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "releaseDate": "Apr 25, 2018",
         "storeUrl": "https://store.steampowered.com/app/843120",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "releaseDate": "Mar 12, 2020",
         "storeUrl": "https://store.steampowered.com/app/725850",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_hero.jpg"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "releaseDate": "Jan 8, 2023",
         "storeUrl": "https://store.steampowered.com/app/2219640",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2219640/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_hero.jpg"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "releaseDate": "Jul 26, 2019",
         "storeUrl": "https://store.steampowered.com/app/1028770",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "releaseDate": "Sep 23, 2015",
         "storeUrl": "https://store.steampowered.com/app/397210",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/672430",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_hero.jpg"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2204770",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2204770/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_hero.jpg"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "releaseDate": "Jul 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/2057000",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_hero.jpg"
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "releaseDate": "Oct 18, 2019",
         "storeUrl": "https://store.steampowered.com/app/1169050",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1169050/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_hero.jpg"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "releaseDate": "Oct 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1114950",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_hero.jpg"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "releaseDate": "Aug 1, 2018",
         "storeUrl": "https://store.steampowered.com/app/759440",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_hero.jpg"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "releaseDate": "Jan 30, 2017",
         "storeUrl": "https://store.steampowered.com/app/554600",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_hero.jpg"
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "releaseDate": "Feb 16, 2016",
         "storeUrl": "https://store.steampowered.com/app/438270",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_hero.jpg"
     },
     {
         "id": 25,
@@ -222,7 +246,8 @@
         "releaseDate": "Aug 27, 2019",
         "storeUrl": "https://store.steampowered.com/app/1117590",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_hero.jpg"
     },
     {
         "id": 26,
@@ -231,7 +256,8 @@
         "releaseDate": "Sep 17, 2020",
         "storeUrl": "https://store.steampowered.com/app/1378840",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_hero.jpg"
     },
     {
         "id": 27,
@@ -240,7 +266,8 @@
         "releaseDate": "Jan 3, 2019",
         "storeUrl": "https://store.steampowered.com/app/997720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_hero.jpg"
     },
     {
         "id": 28,
@@ -249,7 +276,8 @@
         "releaseDate": "Mar 13, 2019",
         "storeUrl": "https://store.steampowered.com/app/1018900",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_hero.jpg"
     },
     {
         "id": 29,
@@ -258,7 +286,8 @@
         "releaseDate": "Dec 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1208030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_hero.jpg"
     },
     {
         "id": 30,
@@ -267,7 +296,8 @@
         "releaseDate": "Aug 16, 2018",
         "storeUrl": "https://store.steampowered.com/app/860640",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
     },
     {
         "id": 31,
@@ -276,7 +306,8 @@
         "releaseDate": "May 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1945590",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_hero.jpg"
     },
     {
         "id": 32,
@@ -285,7 +316,8 @@
         "releaseDate": "Dec 30, 2022",
         "storeUrl": "https://store.steampowered.com/app/2236490",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2236490/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_hero.jpg"
     },
     {
         "id": 33,
@@ -294,7 +326,8 @@
         "releaseDate": "Aug 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/1822010",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_hero.jpg"
     },
     {
         "id": 34,
@@ -303,7 +336,8 @@
         "releaseDate": "Oct 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1158290",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_hero.jpg"
     },
     {
         "id": 35,
@@ -312,7 +346,8 @@
         "releaseDate": "Mar 18, 2021",
         "storeUrl": "https://store.steampowered.com/app/1564550",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_hero.jpg"
     },
     {
         "id": 36,
@@ -321,7 +356,8 @@
         "releaseDate": "Feb 1, 2017",
         "storeUrl": "https://store.steampowered.com/app/1141930",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_hero.jpg"
     },
     {
         "id": 37,
@@ -330,7 +366,8 @@
         "releaseDate": "Nov 1, 2023",
         "storeUrl": "https://store.steampowered.com/app/2063790",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_hero.jpg"
     },
     {
         "id": 38,
@@ -339,7 +376,8 @@
         "releaseDate": "Nov 3, 2021",
         "storeUrl": "https://store.steampowered.com/app/1794690",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_hero.jpg"
     },
     {
         "id": 39,
@@ -348,7 +386,8 @@
         "releaseDate": "Q3 2023",
         "storeUrl": "https://store.steampowered.com/app/1556070",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_hero.jpg"
     },
     {
         "id": 40,
@@ -357,7 +396,8 @@
         "releaseDate": "Dec 15, 2022",
         "storeUrl": "https://store.steampowered.com/app/1643100",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_0.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_hero.jpg"
     },
     {
         "id": 41,
@@ -366,7 +406,8 @@
         "releaseDate": "June 2023",
         "storeUrl": "https://store.steampowered.com/app/2313720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_hero.jpg"
     },
     {
         "id": 42,
@@ -375,7 +416,8 @@
         "releaseDate": "Jul 29, 2021",
         "storeUrl": "https://store.steampowered.com/app/1602930",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_hero.jpg"
     },
     {
         "id": 43,
@@ -384,7 +426,8 @@
         "releaseDate": "Nov 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1726360",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_hero.jpg"
     },
     {
         "id": 44,
@@ -393,7 +436,8 @@
         "releaseDate": "Oct 14, 2022",
         "storeUrl": "https://store.steampowered.com/app/1948870",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_hero.jpg"
     },
     {
         "id": 45,
@@ -402,7 +446,8 @@
         "releaseDate": "Nov 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1798820",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_hero.jpg"
     },
     {
         "id": 46,
@@ -411,7 +456,8 @@
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1632490",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_hero.jpg"
     },
     {
         "id": 47,
@@ -420,7 +466,8 @@
         "releaseDate": "Oct 1, 2020",
         "storeUrl": "https://store.steampowered.com/app/1338570",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_hero.jpg"
     },
     {
         "id": 48,
@@ -429,7 +476,8 @@
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1386630",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_hero.jpg"
     },
     {
         "id": 49,
@@ -438,7 +486,8 @@
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1779030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_hero.jpg"
     },
     {
         "id": 50,
@@ -447,7 +496,8 @@
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2340320",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340320/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_hero.jpg"
     },
     {
         "id": 51,
@@ -456,7 +506,8 @@
         "releaseDate": "May 14, 2021",
         "storeUrl": "https://store.steampowered.com/app/1183580",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_hero.jpg"
     },
     {
         "id": 52,
@@ -465,7 +516,8 @@
         "releaseDate": "Jul 9, 2015",
         "storeUrl": "https://store.steampowered.com/app/372720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
-        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
     },
     {
         "id": 53,
@@ -474,7 +526,8 @@
         "releaseDate": "Mar 12, 2019",
         "storeUrl": "https://store.steampowered.com/app/716560",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_hero.jpg"
     },
     {
         "id": 54,
@@ -483,6 +536,7 @@
         "releaseDate": "Aug 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1031900",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_600x900_2x.jpg"
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_hero.jpg"
     }
 ]
