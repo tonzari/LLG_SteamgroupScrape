@@ -96,6 +96,7 @@ for index, r in enumerate(results):
     gameAppId = storeUrl.split("/")[4]
     libImgSrc =  get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
     libHeroImgSrc = get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_hero.jpg', imgSrc)
+    libLogoImgSrc = get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/logo.png', f'https://via.placeholder.com/400x400?text={gameTitle}')
     
     games.append(
         {
@@ -106,7 +107,8 @@ for index, r in enumerate(results):
             'storeUrl': storeUrl,
             'imageUrl': imgSrc,
             'libraryImageUrl': libImgSrc,
-            'libraryHeroImageUrl': libHeroImgSrc 
+            'libraryHeroImageUrl': libHeroImgSrc ,
+            'libraryLogoImageUrl': libLogoImgSrc
         }
     )
     print("done!")
@@ -122,3 +124,4 @@ print("\nFinished! File saved.\n")
 # handle missing library images (capsule and hero)
 # if capsule is missing, use store image centered, but fill background with color gradient
 # if hero is missing, grab store screenshot image
+# if logo is missing, generate placeholder?  https://via.placeholder.com/600x400/{hex for background}}/{hex for text color}}?text=asdasd 

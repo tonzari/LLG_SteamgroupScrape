@@ -7,7 +7,8 @@
         "storeUrl": "https://store.steampowered.com/app/865610",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/logo.png"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "storeUrl": "https://store.steampowered.com/app/860030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Common Hanzi Quiz - Simplified Chinese"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "storeUrl": "https://store.steampowered.com/app/1337200",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/logo.png"
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "storeUrl": "https://store.steampowered.com/app/632470",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header_alt_assets_10.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/logo.png"
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "storeUrl": "https://store.steampowered.com/app/1422420",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/logo.png"
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "storeUrl": "https://store.steampowered.com/app/1071240",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/logo.png"
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "storeUrl": "https://store.steampowered.com/app/1628400",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/logo.png"
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "storeUrl": "https://store.steampowered.com/app/1251360",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1251360/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/logo.png"
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "storeUrl": "https://store.steampowered.com/app/274980",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/logo.png"
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "storeUrl": "https://store.steampowered.com/app/1388720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1388720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/logo.png"
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "storeUrl": "https://store.steampowered.com/app/1948940",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948940/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/logo.png"
     },
     {
         "id": 12,
@@ -117,7 +128,8 @@
         "storeUrl": "https://store.steampowered.com/app/843120",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57"
     },
     {
         "id": 13,
@@ -127,7 +139,8 @@
         "storeUrl": "https://store.steampowered.com/app/725850",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/logo.png"
     },
     {
         "id": 14,
@@ -137,7 +150,8 @@
         "storeUrl": "https://store.steampowered.com/app/2219640",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2219640/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/logo.png"
     },
     {
         "id": 15,
@@ -147,7 +161,8 @@
         "storeUrl": "https://store.steampowered.com/app/1028770",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Kanji in Motion"
     },
     {
         "id": 16,
@@ -157,7 +172,8 @@
         "storeUrl": "https://store.steampowered.com/app/397210",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Kanji Training Game"
     },
     {
         "id": 17,
@@ -167,7 +183,8 @@
         "storeUrl": "https://store.steampowered.com/app/672430",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/logo.png"
     },
     {
         "id": 18,
@@ -177,7 +194,8 @@
         "storeUrl": "https://store.steampowered.com/app/2204770",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2204770/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/logo.png"
     },
     {
         "id": 19,
@@ -187,7 +205,8 @@
         "storeUrl": "https://store.steampowered.com/app/2057000",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/logo.png"
     },
     {
         "id": 20,
@@ -197,7 +216,8 @@
         "storeUrl": "https://store.steampowered.com/app/1169050",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1169050/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/logo.png"
     },
     {
         "id": 21,
@@ -207,7 +227,8 @@
         "storeUrl": "https://store.steampowered.com/app/1114950",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/logo.png"
     },
     {
         "id": 22,
@@ -217,7 +238,8 @@
         "storeUrl": "https://store.steampowered.com/app/759440",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/logo.png"
     },
     {
         "id": 23,
@@ -227,7 +249,8 @@
         "storeUrl": "https://store.steampowered.com/app/554600",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/logo.png"
     },
     {
         "id": 24,
@@ -237,7 +260,8 @@
         "storeUrl": "https://store.steampowered.com/app/438270",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/logo.png"
     },
     {
         "id": 25,
@@ -247,7 +271,8 @@
         "storeUrl": "https://store.steampowered.com/app/1117590",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/logo.png"
     },
     {
         "id": 26,
@@ -257,7 +282,8 @@
         "storeUrl": "https://store.steampowered.com/app/1378840",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/logo.png"
     },
     {
         "id": 27,
@@ -267,7 +293,8 @@
         "storeUrl": "https://store.steampowered.com/app/997720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/logo.png"
     },
     {
         "id": 28,
@@ -277,7 +304,8 @@
         "storeUrl": "https://store.steampowered.com/app/1018900",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/logo.png"
     },
     {
         "id": 29,
@@ -287,7 +315,8 @@
         "storeUrl": "https://store.steampowered.com/app/1208030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/logo.png"
     },
     {
         "id": 30,
@@ -297,7 +326,8 @@
         "storeUrl": "https://store.steampowered.com/app/860640",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Lingotopia"
     },
     {
         "id": 31,
@@ -307,7 +337,8 @@
         "storeUrl": "https://store.steampowered.com/app/1945590",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/logo.png"
     },
     {
         "id": 32,
@@ -317,7 +348,8 @@
         "storeUrl": "https://store.steampowered.com/app/2236490",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2236490/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/logo.png"
     },
     {
         "id": 33,
@@ -327,7 +359,8 @@
         "storeUrl": "https://store.steampowered.com/app/1822010",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/logo.png"
     },
     {
         "id": 34,
@@ -337,7 +370,8 @@
         "storeUrl": "https://store.steampowered.com/app/1158290",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/logo.png"
     },
     {
         "id": 35,
@@ -347,7 +381,8 @@
         "storeUrl": "https://store.steampowered.com/app/1564550",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/logo.png"
     },
     {
         "id": 36,
@@ -357,7 +392,8 @@
         "storeUrl": "https://store.steampowered.com/app/1141930",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/logo.png"
     },
     {
         "id": 37,
@@ -367,7 +403,8 @@
         "storeUrl": "https://store.steampowered.com/app/2063790",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/logo.png"
     },
     {
         "id": 38,
@@ -377,7 +414,8 @@
         "storeUrl": "https://store.steampowered.com/app/1794690",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/logo.png"
     },
     {
         "id": 39,
@@ -387,7 +425,8 @@
         "storeUrl": "https://store.steampowered.com/app/1556070",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/logo.png"
     },
     {
         "id": 40,
@@ -397,7 +436,8 @@
         "storeUrl": "https://store.steampowered.com/app/1643100",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_0.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/logo.png"
     },
     {
         "id": 41,
@@ -407,7 +447,8 @@
         "storeUrl": "https://store.steampowered.com/app/2313720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/logo.png"
     },
     {
         "id": 42,
@@ -417,7 +458,8 @@
         "storeUrl": "https://store.steampowered.com/app/1602930",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/logo.png"
     },
     {
         "id": 43,
@@ -427,7 +469,8 @@
         "storeUrl": "https://store.steampowered.com/app/1726360",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/logo.png"
     },
     {
         "id": 44,
@@ -437,7 +480,8 @@
         "storeUrl": "https://store.steampowered.com/app/1948870",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/logo.png"
     },
     {
         "id": 45,
@@ -447,7 +491,8 @@
         "storeUrl": "https://store.steampowered.com/app/1798820",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/logo.png"
     },
     {
         "id": 46,
@@ -457,7 +502,8 @@
         "storeUrl": "https://store.steampowered.com/app/1632490",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/logo.png"
     },
     {
         "id": 47,
@@ -467,7 +513,8 @@
         "storeUrl": "https://store.steampowered.com/app/1338570",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/logo.png"
     },
     {
         "id": 48,
@@ -477,7 +524,8 @@
         "storeUrl": "https://store.steampowered.com/app/1386630",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/logo.png"
     },
     {
         "id": 49,
@@ -487,7 +535,8 @@
         "storeUrl": "https://store.steampowered.com/app/1779030",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/logo.png"
     },
     {
         "id": 50,
@@ -497,7 +546,8 @@
         "storeUrl": "https://store.steampowered.com/app/2340320",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340320/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/logo.png"
     },
     {
         "id": 51,
@@ -507,7 +557,8 @@
         "storeUrl": "https://store.steampowered.com/app/1183580",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/logo.png"
     },
     {
         "id": 52,
@@ -517,7 +568,8 @@
         "storeUrl": "https://store.steampowered.com/app/372720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
         "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg"
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=The Language Game"
     },
     {
         "id": 53,
@@ -527,7 +579,8 @@
         "storeUrl": "https://store.steampowered.com/app/716560",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/logo.png"
     },
     {
         "id": 54,
@@ -537,6 +590,7 @@
         "storeUrl": "https://store.steampowered.com/app/1031900",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_hero.jpg"
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/logo.png"
     }
 ]
