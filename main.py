@@ -9,7 +9,8 @@ def set_default(obj):
         return list(obj)
     raise TypeError
 
-def get_page(url, retries=5, wait_time=5):
+# Attempt to get page response, and retry if server error is returned. Lately Steam has been throwing server errors!
+def try_get_page(url, retries=5, wait_time=5):
     for i in range(retries):
         try:
             response = requests.get(url)
@@ -28,7 +29,8 @@ def get_page(url, retries=5, wait_time=5):
     # If all retries failed, return None
     return None
 
-def get_valid_image_url(url, fallback_url):
+# Attempt to get image. Some games don't have images, even though they are required by Steam. Fallback to placehoder or other Steam image.
+def try_get_image_or_fallback(url, fallback_url):
     try:
         response = requests.head(url)
 
@@ -42,15 +44,18 @@ def get_valid_image_url(url, fallback_url):
         print(f"Error checking image URL: {e}")
         return fallback_url
 
+# Empty array to store games later
 games = []
 
-
-# Set Steam Group URL, find the associated games list, store it in results
+# Set Steam Group URL, Get page, parse HTML
 groupUrl = 'https://steamcommunity.com/groups/LanguageLearningGames'
 groupPageResponse = requests.get(groupUrl)
 groupPageHtml = BeautifulSoup(groupPageResponse.text, features='html.parser')
+
+# find individual associated games (from the panel), and store all found in results variable
 results = groupPageHtml.find_all('div', {'class': 'group_associated_game'})
 
+# Prepare json file to store game data in
 jsonFile = open(f'games.json', 'w')
 
 print("\nWriting file...\n")
@@ -63,7 +68,7 @@ for index, r in enumerate(results):
     communityUrl = r.find("a", recursive = False)['href']
 
     # Parse HTML of community page
-    singleGameResponse =  get_page(communityUrl)
+    singleGameResponse =  try_get_page(communityUrl)
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
 
     # Fint game title
@@ -77,7 +82,7 @@ for index, r in enumerate(results):
     storeUrl = aTag['href'].split('?')[0]   
 
     # Parse HTML of store page
-    storePageResponse = get_page(storeUrl)
+    storePageResponse = try_get_page(storeUrl)
     storePageHtml = BeautifulSoup(storePageResponse.text, features="html.parser")
     
     # Find game store image url
@@ -94,9 +99,9 @@ for index, r in enumerate(results):
 
     # Find game app id to build library image urls
     gameAppId = storeUrl.split("/")[4]
-    libImgSrc =  get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
-    libHeroImgSrc = get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_hero.jpg', imgSrc)
-    libLogoImgSrc = get_valid_image_url(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/logo.png', f'https://via.placeholder.com/400x400?text={gameTitle}')
+    libImgSrc =  try_get_image_or_fallback(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
+    libHeroImgSrc = try_get_image_or_fallback(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_hero.jpg', imgSrc)
+    libLogoImgSrc = try_get_image_or_fallback(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/logo.png', f'https://via.placeholder.com/400x400?text={gameTitle}')
     
     games.append(
         {
@@ -113,6 +118,7 @@ for index, r in enumerate(results):
     )
     print("done!")
 
+# convert to json, write to file, close
 jsonString = json.dumps(games, default = set_default, indent = 4)
 jsonFile.write(jsonString) 
 
@@ -124,4 +130,6 @@ print("\nFinished! File saved.\n")
 # handle missing library images (capsule and hero)
 # if capsule is missing, use store image centered, but fill background with color gradient
 # if hero is missing, grab store screenshot image
-# if logo is missing, generate placeholder?  https://via.placeholder.com/600x400/{hex for background}}/{hex for text color}}?text=asdasd 
+# if logo is missing, generate placeholder?  
+# https://via.placeholder.com/600x400/{hex for background}}/{hex for text color}}?text=asdasd 
+# https://placehold.jp/3d4070/ffffff/150x150.png?text=hashdsad%20%20%20hasdh%20hahdas%200hh
