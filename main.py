@@ -44,8 +44,9 @@ def try_get_image_or_fallback(url, fallback_url):
         print(f"Error checking image URL: {e}")
         return fallback_url
 
-# Empty array to store games later
+# Empty array to store games and developers
 games = []
+developers = []
 
 # Set Steam Group URL, Get page, parse HTML
 groupUrl = 'https://steamcommunity.com/groups/LanguageLearningGames'
@@ -57,21 +58,23 @@ results = groupPageHtml.find_all('div', {'class': 'group_associated_game'})
 
 # Prepare json file to store game data in
 jsonFile = open(f'games.json', 'w')
+devsJsonFile = open(f'developers.json', 'w')
 
 print("\nWriting file...\n")
 
-for index, r in enumerate(results):
+# Begin looping through all Associated Games
+for index, result in enumerate(results):
 
-    print(f"adding {index + 1}. {r.text.strip()}... ", end=" ")
+    print(f"adding {index + 1}. {result.text.strip()}... ", end=" ")
 
     # Get URL to game (this is a community page URL)
-    communityUrl = r.find("a", recursive = False)['href']
+    communityUrl = result.find("a", recursive = False)['href']
 
     # Parse HTML of community page
     singleGameResponse =  try_get_page(communityUrl)
     gamePageHtml = BeautifulSoup(singleGameResponse.text, features='html.parser')
 
-    # Fint game title
+    # Find game title
     titleTag = gamePageHtml.find('div', {'class': 'apphub_AppName'})
     gameTitle = titleTag.text.strip()
 
@@ -97,6 +100,27 @@ for index, r in enumerate(results):
     dateTag = storePageHtml.find('div', {'class': 'date'})
     releaseDate = dateTag.text.strip()
 
+    # Find game developers
+    developersTag = storePageHtml.find('div', {'id': 'developers_list'})
+    devAnchorTags = developersTag.find_all('a')
+    devs = []
+    for devIndex, devTag in enumerate(devAnchorTags):
+        
+        devs.append(
+            {
+                'id': devIndex,
+                'link': devTag['href'],
+                'name': devTag.text.strip()
+            }
+        )
+        developer = {
+            'link': devTag['href'],
+            'name': devTag.text.strip()
+        }
+        if developer not in developers:
+            developers.append(developer)
+
+
     # Find game app id to build library image urls
     gameAppId = storeUrl.split("/")[4]
     libImgSrc =  try_get_image_or_fallback(f'https://steamcdn-a.akamaihd.net/steam/apps/{gameAppId}/library_600x900_2x.jpg', imgSrc)
@@ -113,16 +137,25 @@ for index, r in enumerate(results):
             'imageUrl': imgSrc,
             'libraryImageUrl': libImgSrc,
             'libraryHeroImageUrl': libHeroImgSrc ,
-            'libraryLogoImageUrl': libLogoImgSrc
+            'libraryLogoImageUrl': libLogoImgSrc,
+            'developers': devs
         }
     )
     print("done!")
 
+
+# remove duplicates from developers
+for devListIndex, d in enumerate(developers):
+    d['id'] = devListIndex
+
 # convert to json, write to file, close
 jsonString = json.dumps(games, default = set_default, indent = 4)
 jsonFile.write(jsonString) 
-
 jsonFile.close()
+
+devsJsonString = json.dumps(developers, default = set_default, indent = 4)
+devsJsonFile.write(devsJsonString)
+devsJsonFile.close()
 
 print("\nFinished! File saved.\n")
 
