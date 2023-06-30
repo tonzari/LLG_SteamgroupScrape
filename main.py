@@ -57,8 +57,8 @@ groupPageHtml = BeautifulSoup(groupPageResponse.text, features='html.parser')
 results = groupPageHtml.find_all('div', {'class': 'group_associated_game'})
 
 # Prepare json file to store game data in
-jsonFile = open(f'games.json', 'w')
-devsJsonFile = open(f'developers.json', 'w')
+jsonFile = open(f'games.json', 'w', encoding='utf-8')
+devsJsonFile = open(f'developers.json', 'w', encoding='utf-8')
 
 print("\nWriting file...\n")
 
@@ -149,11 +149,11 @@ for devListIndex, d in enumerate(developers):
     d['id'] = devListIndex
 
 # convert to json, write to file, close
-jsonString = json.dumps(games, default = set_default, indent = 4)
+jsonString = json.dumps(games, default = set_default, ensure_ascii=False, indent = 4)
 jsonFile.write(jsonString) 
 jsonFile.close()
 
-devsJsonString = json.dumps(developers, default = set_default, indent = 4)
+devsJsonString = json.dumps(developers, default = set_default, ensure_ascii=False, indent = 4)
 devsJsonFile.write(devsJsonString)
 devsJsonFile.close()
 

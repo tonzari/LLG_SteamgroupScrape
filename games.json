@@ -55,7 +55,7 @@
     },
     {
         "id": 4,
-        "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You\u2019re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
+        "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
         "title": "Disco Elysium",
         "releaseDate": "Oct 15, 2019",
         "storeUrl": "https://store.steampowered.com/app/632470",
@@ -205,13 +205,13 @@
     {
         "id": 12,
         "description": "A quiz that helps you review all Japanese characters that kids must learn when they go to school. From 1st grade all the way to secondary school, you can learn all 2,136 Joyo Kanji, their meanings and pronunciations.",
-        "title": "Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57",
+        "title": "Joyo Kanji Quiz - 常用漢字",
         "releaseDate": "Apr 25, 2018",
         "storeUrl": "https://store.steampowered.com/app/843120",
         "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
         "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
         "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Joyo Kanji Quiz - \u5e38\u7528\u6f22\u5b57",
+        "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Joyo Kanji Quiz - 常用漢字",
         "developers": [
             {
                 "id": 0,
@@ -252,13 +252,13 @@
             {
                 "id": 0,
                 "link": "https://store.steampowered.com/search/?developer=Kaan%20%C3%96zg%C3%BCl&snr=1_5_9__2000",
-                "name": "Kaan \u00d6zg\u00fcl"
+                "name": "Kaan Özgül"
             }
         ]
     },
     {
         "id": 15,
-        "description": "Kanji in Motion is a program for learning to read, in a game-like way, the characters of the two sets of kana, plus the 2,136 J\u014dy\u014d Kanji. The task of the player-learner is to quickly identify characters that move across a playing field and match them to their respective reading and meaning.",
+        "description": "Kanji in Motion is a program for learning to read, in a game-like way, the characters of the two sets of kana, plus the 2,136 Jōyō Kanji. The task of the player-learner is to quickly identify characters that move across a playing field and match them to their respective reading and meaning.",
         "title": "Kanji in Motion",
         "releaseDate": "Jul 26, 2019",
         "storeUrl": "https://store.steampowered.com/app/1028770",
@@ -294,8 +294,8 @@
     },
     {
         "id": 17,
-        "description": "Koe (\u58f0) is a JRPG with the Japanese language at the core of gameplay. Koe (\u58f0) combines traditional RPG gameplay with communicative language learning techniques to bring you a truly unique and rewarding gaming, language and story experience.",
-        "title": "Koe (\u58f0)",
+        "description": "Koe (声) is a JRPG with the Japanese language at the core of gameplay. Koe (声) combines traditional RPG gameplay with communicative language learning techniques to bring you a truly unique and rewarding gaming, language and story experience.",
+        "title": "Koe (声)",
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/672430",
         "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/672430/header.jpg",
@@ -402,7 +402,7 @@
     },
     {
         "id": 23,
-        "description": "Learn Japanese kanji in this interactive role-playing game! No experience needed \u2013 start reading and writing in Japanese!",
+        "description": "Learn Japanese kanji in this interactive role-playing game! No experience needed – start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Kanji Combat",
         "releaseDate": "Aug 1, 2018",
         "storeUrl": "https://store.steampowered.com/app/759440",
@@ -420,7 +420,7 @@
     },
     {
         "id": 24,
-        "description": "Learn the basics of Japanese in this interactive role-playing game! No experience needed \u2013 start reading and writing in Japanese!",
+        "description": "Learn the basics of Japanese in this interactive role-playing game! No experience needed – start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Katakana War",
         "releaseDate": "Jan 30, 2017",
         "storeUrl": "https://store.steampowered.com/app/554600",
@@ -438,7 +438,7 @@
     },
     {
         "id": 25,
-        "description": "The ideal introductory course to the Japanese language! Learn how to read and write Japanese characters (Hiragana) at a steady pace. A full-blown RPG specifically designed to keep you engaged. By playing along, you\u2019re going to be introduced to the Japanese language like never before!",
+        "description": "The ideal introductory course to the Japanese language! Learn how to read and write Japanese characters (Hiragana) at a steady pace. A full-blown RPG specifically designed to keep you engaged. By playing along, you’re going to be introduced to the Japanese language like never before!",
         "title": "Learn Japanese To Survive - Hiragana Battle",
         "releaseDate": "Feb 16, 2016",
         "storeUrl": "https://store.steampowered.com/app/438270",
@@ -582,8 +582,8 @@
     },
     {
         "id": 33,
-        "description": "Lost Abroad Caf\u00e9: a language learning game that puts you in the role of a virtual caf\u00e9 owner in another country. Learn and use your new language to serve your customers and grow your business. Try it now on Steam Early Access!",
-        "title": "Lost Abroad Caf\u00e9",
+        "description": "Lost Abroad Café: a language learning game that puts you in the role of a virtual café owner in another country. Learn and use your new language to serve your customers and grow your business. Try it now on Steam Early Access!",
+        "title": "Lost Abroad Café",
         "releaseDate": "Dec 30, 2022",
         "storeUrl": "https://store.steampowered.com/app/2236490",
         "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2236490/header.jpg",
@@ -612,7 +612,7 @@
             {
                 "id": 0,
                 "link": "https://store.steampowered.com/search/?developer=Aurora%20-%20M%C3%ADdia%20%26amp%3B%20Games&snr=1_5_9__2000",
-                "name": "Aurora - M\u00eddia & Games"
+                "name": "Aurora - Mídia & Games"
             }
         ]
     },
@@ -672,7 +672,7 @@
     },
     {
         "id": 38,
-        "description": "\u2728A fantasy language learning adventure where you learn a second language to save the the kingdom and befriend its people! \ud83c\udfae",
+        "description": "✨A fantasy language learning adventure where you learn a second language to save the the kingdom and befriend its people! 🎮",
         "title": "Newcomer",
         "releaseDate": "August 2023",
         "storeUrl": "https://store.steampowered.com/app/2063790",
@@ -708,7 +708,7 @@
     },
     {
         "id": 40,
-        "description": "Learn Japanese through gaming! Nihongo Quest is a colorful JRPG that will teach you over 1000 Japanese words and characters. Explore the world of Gakush\u016b as you battle, race, and draw your way to victory! Teaches up to the JLPT N5 level of Japanese.",
+        "description": "Learn Japanese through gaming! Nihongo Quest is a colorful JRPG that will teach you over 1000 Japanese words and characters. Explore the world of Gakushū as you battle, race, and draw your way to victory! Teaches up to the JLPT N5 level of Japanese.",
         "title": "Nihongo Quest N5",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/1556070",
@@ -726,7 +726,7 @@
     },
     {
         "id": 41,
-        "description": "Noun Town: VR Language Learning is the new way to learn a foreign language! Pick things up, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Korean, Chinese, Spanish, and more\u2026",
+        "description": "Noun Town: VR Language Learning is the new way to learn a foreign language! Pick things up, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Korean, Chinese, Spanish, and more…",
         "title": "Noun Town",
         "releaseDate": "Dec 15, 2022",
         "storeUrl": "https://store.steampowered.com/app/1643100",
@@ -744,7 +744,7 @@
     },
     {
         "id": 42,
-        "description": "Noun Town Language Learning is the new way to learn a foreign language! Interact, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more\u2026",
+        "description": "Noun Town Language Learning is the new way to learn a foreign language! Interact, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more…",
         "title": "Noun Town Language Learning",
         "releaseDate": "Aug 31, 2023",
         "storeUrl": "https://store.steampowered.com/app/2313720",
@@ -762,7 +762,7 @@
     },
     {
         "id": 43,
-        "description": "Want to improve your Spanish? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? \u00a1Felicidades amigos! This is the game for you.",
+        "description": "Want to improve your Spanish? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? ¡Felicidades amigos! This is the game for you.",
         "title": "Pedro's Adventures in Spanish",
         "releaseDate": "Jul 29, 2021",
         "storeUrl": "https://store.steampowered.com/app/1602930",
@@ -798,7 +798,7 @@
     },
     {
         "id": 45,
-        "description": "Want to improve your French? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? F\u00e9licitations ! This is the game for you.",
+        "description": "Want to improve your French? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? Félicitations ! This is the game for you.",
         "title": "Pierre's Adventures in French",
         "releaseDate": "Oct 14, 2022",
         "storeUrl": "https://store.steampowered.com/app/1948870",
@@ -852,8 +852,8 @@
     },
     {
         "id": 48,
-        "description": "Sheng Tian (\u5347\u5929) - Episode 1 is a 3D sci-fi game for learning Taiwanese Mandarin. Characters are also used in Hong Kong, Singapore, Malaysia, Macau, China, and Japan. Pronunciation is common to Taiwan and China. Puzzle your way through 7 environments and acquire 50 terms.",
-        "title": "Sheng Tian (\u5347\u5929) - Episode 1",
+        "description": "Sheng Tian (升天) - Episode 1 is a 3D sci-fi game for learning Taiwanese Mandarin. Characters are also used in Hong Kong, Singapore, Malaysia, Macau, China, and Japan. Pronunciation is common to Taiwan and China. Puzzle your way through 7 environments and acquire 50 terms.",
+        "title": "Sheng Tian (升天) - Episode 1",
         "releaseDate": "Oct 1, 2020",
         "storeUrl": "https://store.steampowered.com/app/1338570",
         "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1338570/header.jpg",
@@ -906,8 +906,8 @@
     },
     {
         "id": 51,
-        "description": "Tango Senshi \u5358\u8a9e\u6226\u58eb is a retro top down RPG game centered about exploration, finding vocab words in the world by interacting with objects, and using the vocab you learned to gain advantage when battling! You will also unravel the mystery of your past, save the citizens, and become a hero!",
-        "title": "Tango Senshi \u5358\u8a9e\u6226\u58eb : A Japanese Vocab Learning RPG",
+        "description": "Tango Senshi 単語戦士 is a retro top down RPG game centered about exploration, finding vocab words in the world by interacting with objects, and using the vocab you learned to gain advantage when battling! You will also unravel the mystery of your past, save the citizens, and become a hero!",
+        "title": "Tango Senshi 単語戦士 : A Japanese Vocab Learning RPG",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2340320",
         "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2340320/header.jpg",
@@ -924,7 +924,7 @@
     },
     {
         "id": 52,
-        "description": "You\u2019ve arrived at Terra Alia, a world where magic and technology shape the future. Embark on an adventure and solve a thrilling mystery while practicing a new language in this top-down RPG!",
+        "description": "You’ve arrived at Terra Alia, a world where magic and technology shape the future. Embark on an adventure and solve a thrilling mystery while practicing a new language in this top-down RPG!",
         "title": "Terra Alia",
         "releaseDate": "May 14, 2021",
         "storeUrl": "https://store.steampowered.com/app/1183580",
