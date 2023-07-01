@@ -5,13 +5,13 @@
         "title": "Backbone",
         "releaseDate": "Jun 8, 2021",
         "storeUrl": "https://store.steampowered.com/app/865610",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/865610/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/rawfury?snr=1_5_9__2000",
                 "name": "Eggnut"
             }
@@ -23,13 +23,13 @@
         "title": "Common Hanzi Quiz - Simplified Chinese",
         "releaseDate": "May 21, 2018",
         "storeUrl": "https://store.steampowered.com/app/860030",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860030/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860030/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860030/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860030/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Common Hanzi Quiz - Simplified Chinese",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/wholetonegames?snr=1_5_9__2000",
                 "name": "Wholetone Games"
             }
@@ -41,13 +41,13 @@
         "title": "Da! Russian Quiz",
         "releaseDate": "Jun 16, 2020",
         "storeUrl": "https://store.steampowered.com/app/1337200",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1337200/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1337200/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/wholetonegames?snr=1_5_9__2000",
                 "name": "Wholetone Games"
             }
@@ -59,13 +59,13 @@
         "title": "Disco Elysium",
         "releaseDate": "Oct 15, 2019",
         "storeUrl": "https://store.steampowered.com/app/632470",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/632470/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=ZA%2FUM&snr=1_5_9__2000",
                 "name": "ZA/UM"
             }
@@ -77,13 +77,13 @@
         "title": "Dodgeball Academia",
         "releaseDate": "Aug 5, 2021",
         "storeUrl": "https://store.steampowered.com/app/1422420",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422420/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1422420/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1422420/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Pocket%20Trap&snr=1_5_9__2000",
                 "name": "Pocket Trap"
             }
@@ -95,13 +95,13 @@
         "title": "Earthlingo",
         "releaseDate": "Aug 6, 2019",
         "storeUrl": "https://store.steampowered.com/app/1071240",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1071240/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1071240/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1071240/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Earthlingo&snr=1_5_9__2000",
                 "name": "Earthlingo"
             }
@@ -113,13 +113,13 @@
         "title": "Hiragana Katakana Ninja",
         "releaseDate": "May 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1628400",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1628400/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1628400/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1628400/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Wholetone%20Games&snr=1_5_9__2000",
                 "name": "Wholetone Games"
             }
@@ -131,13 +131,13 @@
         "title": "Hua Mulan: A Chinese Learning Adventure",
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/1251360",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1251360/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1251360/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1251360/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=ODEUM&snr=1_5_9__2000",
                 "name": "ODEUM"
             }
@@ -149,13 +149,13 @@
         "title": "Influent",
         "releaseDate": "Mar 20, 2014",
         "storeUrl": "https://store.steampowered.com/app/274980",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/274980/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274980/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/274980/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/curator/38018637?snr=1_5_9__2000",
                 "name": "Rob Howland"
             }
@@ -167,13 +167,13 @@
         "title": "Japanese Romaji Adventure",
         "releaseDate": "Aug 28, 2020",
         "storeUrl": "https://store.steampowered.com/app/1388720",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1388720/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1388720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1388720/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/AngelStarStudios?snr=1_5_9__2000",
                 "name": "JBO Media"
             }
@@ -185,18 +185,18 @@
         "title": "Japanese Romaji Adventure 3D",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/1948940",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1948940/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948940/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948940/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/AngelStarStudios?snr=1_5_9__2000",
                 "name": "JBO Media"
             },
             {
-                "id": 1,
+                "id": 2,
                 "link": "https://store.steampowered.com/developer/AngelStarStudios?snr=1_5_9__2000",
                 "name": "Angel Star Studios"
             }
@@ -208,13 +208,13 @@
         "title": "Joyo Kanji Quiz - 常用漢字",
         "releaseDate": "Apr 25, 2018",
         "storeUrl": "https://store.steampowered.com/app/843120",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/843120/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/843120/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Joyo Kanji Quiz - 常用漢字",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/wholetonegames?snr=1_5_9__2000",
                 "name": "Wholetone Games"
             }
@@ -226,13 +226,13 @@
         "title": "Kana Quest",
         "releaseDate": "Mar 12, 2020",
         "storeUrl": "https://store.steampowered.com/app/725850",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/725850/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/725850/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/725850/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/whitethorngames?snr=1_5_9__2000",
                 "name": "Not Dead Design"
             }
@@ -244,13 +244,13 @@
         "title": "Kanji Drive",
         "releaseDate": "Jan 8, 2023",
         "storeUrl": "https://store.steampowered.com/app/2219640",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2219640/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2219640/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2219640/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Kaan%20%C3%96zg%C3%BCl&snr=1_5_9__2000",
                 "name": "Kaan Özgül"
             }
@@ -262,13 +262,13 @@
         "title": "Kanji in Motion",
         "releaseDate": "Jul 26, 2019",
         "storeUrl": "https://store.steampowered.com/app/1028770",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1028770/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1028770/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1028770/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1028770/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Kanji in Motion",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Yannik%20Lobsensky&snr=1_5_9__2000",
                 "name": "Yannik Lobsensky"
             }
@@ -280,13 +280,13 @@
         "title": "Kanji Training Game",
         "releaseDate": "Sep 23, 2015",
         "storeUrl": "https://store.steampowered.com/app/397210",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/397210/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/397210/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/397210/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397210/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Kanji Training Game",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Targhen%20Games&snr=1_5_9__2000",
                 "name": "Targhen Games"
             }
@@ -298,13 +298,13 @@
         "title": "Koe (声)",
         "releaseDate": "Coming soon",
         "storeUrl": "https://store.steampowered.com/app/672430",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/672430/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672430/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/672430/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Strawberry%20Games&snr=1_5_9__2000",
                 "name": "Strawberry Games"
             }
@@ -316,13 +316,13 @@
         "title": "Kore VR",
         "releaseDate": "Apr 8, 2023",
         "storeUrl": "https://store.steampowered.com/app/2319620",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2319620/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2319620/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2319620/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2319620/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2319620/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/curator/43676113?snr=1_5_9__2000",
                 "name": "Kore Meta Inc."
             }
@@ -334,13 +334,13 @@
         "title": "Language Adventure",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2204770",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2204770/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2204770/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2204770/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Wonky%20Games&snr=1_5_9__2000",
                 "name": "Wonky Games"
             }
@@ -352,13 +352,13 @@
         "title": "Language Lab",
         "releaseDate": "Jul 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/2057000",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2057000/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2057000/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2057000/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Language%20Lab%20VR&snr=1_5_9__2000",
                 "name": "Language Lab VR"
             }
@@ -370,13 +370,13 @@
         "title": "Language Worm",
         "releaseDate": "Oct 18, 2019",
         "storeUrl": "https://store.steampowered.com/app/1169050",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1169050/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1169050/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1169050/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Christopher%20Pollard&snr=1_5_9__2000",
                 "name": "Christopher Pollard"
             }
@@ -388,13 +388,13 @@
         "title": "Learn Japanese RPG: Hiragana Forbidden Speech",
         "releaseDate": "Oct 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1114950",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1114950/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1114950/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1114950/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/curator/43353216?snr=1_5_9__2000",
                 "name": "Study Bunny Games LLC"
             }
@@ -406,13 +406,13 @@
         "title": "Learn Japanese To Survive! Kanji Combat",
         "releaseDate": "Aug 1, 2018",
         "storeUrl": "https://store.steampowered.com/app/759440",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/759440/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/759440/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/759440/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/rivercrow?snr=1_5_9__2000",
                 "name": "Sleepy Duck"
             }
@@ -424,13 +424,13 @@
         "title": "Learn Japanese To Survive! Katakana War",
         "releaseDate": "Jan 30, 2017",
         "storeUrl": "https://store.steampowered.com/app/554600",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/554600/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/554600/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/554600/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/rivercrow?snr=1_5_9__2000",
                 "name": "Sleepy Duck"
             }
@@ -442,13 +442,13 @@
         "title": "Learn Japanese To Survive - Hiragana Battle",
         "releaseDate": "Feb 16, 2016",
         "storeUrl": "https://store.steampowered.com/app/438270",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/438270/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/438270/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/438270/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/rivercrow?snr=1_5_9__2000",
                 "name": "Sleepy Duck"
             }
@@ -460,13 +460,13 @@
         "title": "Learn Spanish! Easy Vocabulary",
         "releaseDate": "Aug 27, 2019",
         "storeUrl": "https://store.steampowered.com/app/1117590",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1117590/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1117590/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1117590/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/splutterworth?snr=1_5_9__2000",
                 "name": "Dr. Cyril Splutterworth"
             }
@@ -478,13 +478,13 @@
         "title": "Learn Spanish VR",
         "releaseDate": "Sep 17, 2020",
         "storeUrl": "https://store.steampowered.com/app/1378840",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1378840/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1378840/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1378840/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/ricardoalonso?snr=1_5_9__2000",
                 "name": "Ricardo Alonso Pina"
             }
@@ -496,13 +496,13 @@
         "title": "Let's Learn Japanese! Hiragana",
         "releaseDate": "Jan 3, 2019",
         "storeUrl": "https://store.steampowered.com/app/997720",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/997720/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/997720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/997720/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/splutterworth?snr=1_5_9__2000",
                 "name": "Dr. Cyril Splutterworth"
             }
@@ -514,13 +514,13 @@
         "title": "Let's Learn Japanese! Katakana",
         "releaseDate": "Mar 13, 2019",
         "storeUrl": "https://store.steampowered.com/app/1018900",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1018900/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1018900/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1018900/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/splutterworth?snr=1_5_9__2000",
                 "name": "Dr. Cyril Splutterworth"
             }
@@ -532,13 +532,13 @@
         "title": "Let's Learn Japanese! Vocabulary",
         "releaseDate": "Dec 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1208030",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1208030/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1208030/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1208030/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/splutterworth?snr=1_5_9__2000",
                 "name": "Dr. Cyril Splutterworth"
             }
@@ -550,13 +550,13 @@
         "title": "Lingotopia",
         "releaseDate": "Aug 16, 2018",
         "storeUrl": "https://store.steampowered.com/app/860640",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860640/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860640/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/860640/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=Lingotopia",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Lingo%20Ludo&snr=1_5_9__2000",
                 "name": "Lingo Ludo"
             }
@@ -568,13 +568,13 @@
         "title": "Linguist FPS - The Language Learning FPS",
         "releaseDate": "May 20, 2022",
         "storeUrl": "https://store.steampowered.com/app/1945590",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1945590/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1945590/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1945590/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/RocketBoyGames?snr=1_5_9__2000",
                 "name": "Rocket Boy Games"
             }
@@ -586,13 +586,13 @@
         "title": "Lost Abroad Café",
         "releaseDate": "Dec 30, 2022",
         "storeUrl": "https://store.steampowered.com/app/2236490",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2236490/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2236490/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2236490/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Lost%20Abroad&snr=1_5_9__2000",
                 "name": "Lost Abroad"
             }
@@ -604,13 +604,13 @@
         "title": "Milliopoly - Language Quiz and Learning",
         "releaseDate": "Aug 9, 2022",
         "storeUrl": "https://store.steampowered.com/app/1822010",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1822010/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1822010/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1822010/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Aurora%20-%20M%C3%ADdia%20%26amp%3B%20Games&snr=1_5_9__2000",
                 "name": "Aurora - Mídia & Games"
             }
@@ -622,13 +622,13 @@
         "title": "Mini Words",
         "releaseDate": "Oct 24, 2019",
         "storeUrl": "https://store.steampowered.com/app/1158290",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158290/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158290/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1158290/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/menssana?snr=1_5_9__2000",
                 "name": "Mens Sana Interactive"
             }
@@ -640,13 +640,13 @@
         "title": "Mini Words: Polyglot",
         "releaseDate": "Mar 18, 2021",
         "storeUrl": "https://store.steampowered.com/app/1564550",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1564550/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1564550/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1564550/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/menssana?snr=1_5_9__2000",
                 "name": "Mens Sana Interactive"
             }
@@ -658,13 +658,13 @@
         "title": "Mondly: Learn Languages in VR",
         "releaseDate": "Feb 1, 2017",
         "storeUrl": "https://store.steampowered.com/app/1141930",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1141930/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1141930/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1141930/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=ATi%20Studios%20A.P.P.S.%20SRL&snr=1_5_9__2000",
                 "name": "ATi Studios A.P.P.S. SRL"
             }
@@ -676,13 +676,13 @@
         "title": "Newcomer",
         "releaseDate": "August 2023",
         "storeUrl": "https://store.steampowered.com/app/2063790",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2063790/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Newcomer%20Games&snr=1_5_9__2000",
                 "name": "Newcomer Games"
             }
@@ -694,13 +694,13 @@
         "title": "Nihongo Heroes",
         "releaseDate": "Nov 3, 2021",
         "storeUrl": "https://store.steampowered.com/app/1794690",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794690/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1794690/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1794690/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=monacrea&snr=1_5_9__2000",
                 "name": "monacrea"
             }
@@ -712,13 +712,13 @@
         "title": "Nihongo Quest N5",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/1556070",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556070/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1556070/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1556070/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Melon%20Mint%20Games%20LLC&snr=1_5_9__2000",
                 "name": "Melon Mint Games LLC"
             }
@@ -730,13 +730,13 @@
         "title": "Noun Town",
         "releaseDate": "Dec 15, 2022",
         "storeUrl": "https://store.steampowered.com/app/1643100",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1643100/header_alt_assets_1.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_1.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/curator/40706656?snr=1_5_9__2000",
                 "name": "realiaXR"
             }
@@ -748,13 +748,13 @@
         "title": "Noun Town Language Learning",
         "releaseDate": "Aug 31, 2023",
         "storeUrl": "https://store.steampowered.com/app/2313720",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2313720/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=realiaXR&snr=1_5_9__2000",
                 "name": "realiaXR"
             }
@@ -766,13 +766,13 @@
         "title": "Pedro's Adventures in Spanish",
         "releaseDate": "Jul 29, 2021",
         "storeUrl": "https://store.steampowered.com/app/1602930",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1602930/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602930/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1602930/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/RocketBoyGames?snr=1_5_9__2000",
                 "name": "Rocket Boy Games"
             }
@@ -784,13 +784,13 @@
         "title": "Peter's Adventures in English",
         "releaseDate": "Nov 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1726360",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1726360/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1726360/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1726360/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/RocketBoyGames?snr=1_5_9__2000",
                 "name": "Rocket Boy Games"
             }
@@ -802,13 +802,13 @@
         "title": "Pierre's Adventures in French",
         "releaseDate": "Oct 14, 2022",
         "storeUrl": "https://store.steampowered.com/app/1948870",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1948870/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948870/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1948870/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/RocketBoyGames?snr=1_5_9__2000",
                 "name": "Rocket Boy Games"
             }
@@ -820,13 +820,13 @@
         "title": "RoboLingo",
         "releaseDate": "Nov 24, 2021",
         "storeUrl": "https://store.steampowered.com/app/1798820",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1798820/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1798820/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1798820/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Mama%20Makes%20Games%2C%20LLC&snr=1_5_9__2000",
                 "name": "Mama Makes Games, LLC"
             }
@@ -838,13 +838,13 @@
         "title": "Shashingo: Learn Japanese with Photography",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1632490",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1632490/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1632490/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1632490/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Autumn%20Pioneer&snr=1_5_9__2000",
                 "name": "Autumn Pioneer"
             }
@@ -856,13 +856,13 @@
         "title": "Sheng Tian (升天) - Episode 1",
         "releaseDate": "Oct 1, 2020",
         "storeUrl": "https://store.steampowered.com/app/1338570",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1338570/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1338570/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1338570/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=East%20Bay%20Immersive%20Games%2C%20LLC&snr=1_5_9__2000",
                 "name": "East Bay Immersive Games, LLC"
             }
@@ -874,13 +874,13 @@
         "title": "Shujinkou",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1386630",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1386630/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1386630/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1386630/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Rice%20Games&snr=1_5_9__2000",
                 "name": "Rice Games"
             }
@@ -892,13 +892,13 @@
         "title": "So to Speak",
         "releaseDate": "2023",
         "storeUrl": "https://store.steampowered.com/app/1779030",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1779030/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779030/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1779030/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/curator/41142879?snr=1_5_9__2000",
                 "name": "Erik Andersen"
             }
@@ -910,13 +910,13 @@
         "title": "Tango Senshi 単語戦士 : A Japanese Vocab Learning RPG",
         "releaseDate": "To be announced",
         "storeUrl": "https://store.steampowered.com/app/2340320",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2340320/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340320/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2340320/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Iconoclast%20Games&snr=1_5_9__2000",
                 "name": "Iconoclast Games"
             }
@@ -928,13 +928,13 @@
         "title": "Terra Alia",
         "releaseDate": "May 14, 2021",
         "storeUrl": "https://store.steampowered.com/app/1183580",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1183580/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1183580/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1183580/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=30%20Parallel&snr=1_5_9__2000",
                 "name": "30 Parallel"
             }
@@ -946,13 +946,13 @@
         "title": "The Language Game",
         "releaseDate": "Jul 9, 2015",
         "storeUrl": "https://store.steampowered.com/app/372720",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/372720/header.jpg",
-        "libraryImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/372720/header.jpg",
-        "libraryHeroImageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/372720/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
+        "libraryImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
+        "libraryHeroImageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/372720/header.jpg",
         "libraryLogoImageUrl": "https://via.placeholder.com/400x400?text=The Language Game",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=Tap%20To%20Win&snr=1_5_9__2000",
                 "name": "Tap To Win"
             }
@@ -964,13 +964,13 @@
         "title": "Trancelation",
         "releaseDate": "Mar 12, 2019",
         "storeUrl": "https://store.steampowered.com/app/716560",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/716560/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/716560/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/716560/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/developer/mythicowl?snr=1_5_9__2000",
                 "name": "MythicOwl"
             }
@@ -982,13 +982,13 @@
         "title": "You Can Kana",
         "releaseDate": "Aug 11, 2021",
         "storeUrl": "https://store.steampowered.com/app/1031900",
-        "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1031900/header.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1031900/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1031900/logo.png",
         "developers": [
             {
-                "id": 0,
+                "id": 1,
                 "link": "https://store.steampowered.com/search/?developer=James%20Moulang&snr=1_5_9__2000",
                 "name": "James Moulang"
             }

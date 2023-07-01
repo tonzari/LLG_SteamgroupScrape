@@ -104,19 +104,22 @@ for index, result in enumerate(results):
     developersTag = storePageHtml.find('div', {'id': 'developers_list'})
     devAnchorTags = developersTag.find_all('a')
     devs = []
+
     for devIndex, devTag in enumerate(devAnchorTags):
         
         devs.append(
             {
-                'id': devIndex,
+                'id': devIndex + 1,
                 'link': devTag['href'],
                 'name': devTag.text.strip()
             }
         )
+
         developer = {
             'link': devTag['href'],
             'name': devTag.text.strip()
         }
+
         if developer not in developers:
             developers.append(developer)
 
@@ -144,9 +147,9 @@ for index, result in enumerate(results):
     print("done!")
 
 
-# remove duplicates from developers
+# add id to each developer
 for devListIndex, d in enumerate(developers):
-    d['id'] = devListIndex
+    d['id'] = devListIndex + 1
 
 # convert to json, write to file, close
 jsonString = json.dumps(games, default = set_default, ensure_ascii=False, indent = 4)
