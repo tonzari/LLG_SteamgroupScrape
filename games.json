@@ -1,24 +1,6 @@
 [
     {
         "id": 1,
-        "description": "Backbone is a post-noir narrative adventure. Become raccoon private eye Howard Lotor and explore dystopian Vancouver inhabited by animals as you uncover a deeply personal story of change and transformation.",
-        "title": "Backbone",
-        "releaseDate": "Jun 8, 2021",
-        "storeUrl": "https://store.steampowered.com/app/865610",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
-        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg",
-        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg",
-        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/logo.png",
-        "developers": [
-            {
-                "id": 1,
-                "link": "https://store.steampowered.com/developer/rawfury?snr=1_5_9__2000",
-                "name": "Eggnut"
-            }
-        ]
-    },
-    {
-        "id": 2,
         "description": "A quiz that helps you review common Chinese characters you will come across in everyday text. By practicing and reviewing, you can learn 2,538 Hanzi, their meanings and pronunciations.",
         "title": "Common Hanzi Quiz - Simplified Chinese",
         "releaseDate": "May 21, 2018",
@@ -36,7 +18,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 2,
         "description": "A quiz that helps you review words and phrases in Russian. Over 3,500 Advanced phrases, 350 Verbs, 1500 nouns and exactly 33 letters for all your learning efforts.",
         "title": "Da! Russian Quiz",
         "releaseDate": "Jun 16, 2020",
@@ -54,7 +36,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 3,
         "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
         "title": "Disco Elysium",
         "releaseDate": "Oct 15, 2019",
@@ -72,7 +54,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 4,
         "description": "Dodgeball Academia is a sports RPG game featuring rookie dodgeball student, Otto. Join Otto and an eclectic cast of characters as they train to dominate on and off the courts of the academia.",
         "title": "Dodgeball Academia",
         "releaseDate": "Aug 5, 2021",
@@ -90,7 +72,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 5,
         "description": "Addictive game for language learning",
         "title": "Earthlingo",
         "releaseDate": "Aug 6, 2019",
@@ -108,7 +90,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 6,
         "description": "This game complements your Japanese language studies by offering a fun way to fixate the Hiragana and Katakana syllabaries.",
         "title": "Hiragana Katakana Ninja",
         "releaseDate": "May 24, 2021",
@@ -120,13 +102,13 @@
         "developers": [
             {
                 "id": 1,
-                "link": "https://store.steampowered.com/search/?developer=Wholetone%20Games&snr=1_5_9__2000",
+                "link": "https://store.steampowered.com/developer/wholetonegames?snr=1_5_9__2000",
                 "name": "Wholetone Games"
             }
         ]
     },
     {
-        "id": 8,
+        "id": 7,
         "description": "Travel back in time to help defend Hua Mulan against evil time bandits all while learning Chinese in this story-driven, role-playing, open 3D world episodic adventure.",
         "title": "Hua Mulan: A Chinese Learning Adventure",
         "releaseDate": "Coming soon",
@@ -144,7 +126,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 8,
         "description": "Influent is a Language Learning Game focused on vocabulary acquisition and pronunciation that gives players the freedom to choose what words they want to learn without any need for pencils or books!",
         "title": "Influent",
         "releaseDate": "Mar 20, 2014",
@@ -162,7 +144,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 9,
         "description": "An RPG in which you learn Japanese using romaji characters i.e. English letters. It is set in the 1800's and is an epic adventure that will teach you about Japanese history and the language. In a matter of hours you could be speaking Japanese.",
         "title": "Japanese Romaji Adventure",
         "releaseDate": "Aug 28, 2020",
@@ -180,7 +162,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 10,
         "description": "An RPG where you learn Japanese using romaji (i.e. English letters). It is set in the 1800's and is an epic adventure that will teach you about Japanese history and Japanese language. In a matter of hours you could be speaking Japanese.",
         "title": "Japanese Romaji Adventure 3D",
         "releaseDate": "To be announced",
@@ -203,7 +185,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 11,
         "description": "A quiz that helps you review all Japanese characters that kids must learn when they go to school. From 1st grade all the way to secondary school, you can learn all 2,136 Joyo Kanji, their meanings and pronunciations.",
         "title": "Joyo Kanji Quiz - 常用漢字",
         "releaseDate": "Apr 25, 2018",
@@ -221,7 +203,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 12,
         "description": "A Kawaii Kana Match-Em Up. Learn Japanese. Match Kana (Japanese letters) with their sounds. Solve Puzzles.Your quest to learn Japanese starts now!",
         "title": "Kana Quest",
         "releaseDate": "Mar 12, 2020",
@@ -239,7 +221,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 13,
         "description": "Supplement your Japanese practice with this arcade driving game. Learn common kanji, hiragana, words, and verbs while having fun. Go through flashcards effortlessly.",
         "title": "Kanji Drive",
         "releaseDate": "Jan 8, 2023",
@@ -257,7 +239,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": 14,
         "description": "Kanji in Motion is a program for learning to read, in a game-like way, the characters of the two sets of kana, plus the 2,136 Jōyō Kanji. The task of the player-learner is to quickly identify characters that move across a playing field and match them to their respective reading and meaning.",
         "title": "Kanji in Motion",
         "releaseDate": "Jul 26, 2019",
@@ -275,7 +257,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 15,
         "description": "Kanji Training Game is a game that helps you learn the Japanese writing system in the form of a game. Memorize 1006 symbols of Kanji, Katakana and Hiragana, and level up as you advance through the increasingly complex alphabet and words of the Japanese language.",
         "title": "Kanji Training Game",
         "releaseDate": "Sep 23, 2015",
@@ -293,7 +275,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 16,
         "description": "Koe (声) is a JRPG with the Japanese language at the core of gameplay. Koe (声) combines traditional RPG gameplay with communicative language learning techniques to bring you a truly unique and rewarding gaming, language and story experience.",
         "title": "Koe (声)",
         "releaseDate": "Coming soon",
@@ -311,7 +293,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 17,
         "description": "Want to learn the Korean alphabet on the Meta Quest? Hop into Kore VR where you get to learn the alphabet in an interactive orb and shoot away letters in an interactive arena to win ingredients for delicious Korean dishes. Get those letters right or you will get roasted in Korean!",
         "title": "Kore VR",
         "releaseDate": "Apr 8, 2023",
@@ -329,7 +311,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": 18,
         "description": "A stop motion animated language learning adventure game. Aliens have crash landed in your back garden and you must help them return home. Go on an adventure in a handmade town full of colourful characters and learn a new language on the way!",
         "title": "Language Adventure",
         "releaseDate": "To be announced",
@@ -347,7 +329,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 19,
         "description": "Not your standard language learning application. This is the CrossFit of language learning apps. No multiple choice exercises, no grammar written out for you. Just you and the language, the same way you learned your first one.",
         "title": "Language Lab",
         "releaseDate": "Jul 9, 2022",
@@ -365,7 +347,7 @@
         ]
     },
     {
-        "id": 21,
+        "id": 20,
         "description": "Learn foreign language vocabulary while playing an arcade game. Supports Spanish, French, German, and Latin vocabulary. Study anywhere from the most common fifty words up to the most common one thousand words.",
         "title": "Language Worm",
         "releaseDate": "Oct 18, 2019",
@@ -383,7 +365,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": 21,
         "description": "Dialogue changes from English to Japanese as you learn and progress in this comedic RPG backed by professional Japanese voice acting. This is a full introductory Japanese course and adventure all in one. Master hiragana, basic grammar, and over 240 common words used in anime!",
         "title": "Learn Japanese RPG: Hiragana Forbidden Speech",
         "releaseDate": "Oct 20, 2022",
@@ -401,7 +383,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "description": "Learn Japanese kanji in this interactive role-playing game! No experience needed – start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Kanji Combat",
         "releaseDate": "Aug 1, 2018",
@@ -419,7 +401,7 @@
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "description": "Learn the basics of Japanese in this interactive role-playing game! No experience needed – start reading and writing in Japanese!",
         "title": "Learn Japanese To Survive! Katakana War",
         "releaseDate": "Jan 30, 2017",
@@ -437,7 +419,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "description": "The ideal introductory course to the Japanese language! Learn how to read and write Japanese characters (Hiragana) at a steady pace. A full-blown RPG specifically designed to keep you engaged. By playing along, you’re going to be introduced to the Japanese language like never before!",
         "title": "Learn Japanese To Survive - Hiragana Battle",
         "releaseDate": "Feb 16, 2016",
@@ -455,7 +437,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "description": "Learn over 200 Spanish words with authentic native pronunciation, mini-games and total immersion in Spanish.",
         "title": "Learn Spanish! Easy Vocabulary",
         "releaseDate": "Aug 27, 2019",
@@ -473,7 +455,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": 26,
         "description": "Experience a virtual environment full with objects to interact and learn. designed for people that wants to learn Spanish or wants to recover speech it is a good tool to help. thanks for your support",
         "title": "Learn Spanish VR",
         "releaseDate": "Sep 17, 2020",
@@ -491,7 +473,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": 27,
         "description": "Want to learn to read Japanese? Let's start with hiragana! Learn the Japanese alphabet through puzzles and arcade-style challenges.",
         "title": "Let's Learn Japanese! Hiragana",
         "releaseDate": "Jan 3, 2019",
@@ -509,7 +491,7 @@
         ]
     },
     {
-        "id": 29,
+        "id": 28,
         "description": "Want to read Japanese? Let's learn katakana! Learn the whole katakana alphabet through puzzles and arcade-style challenges.",
         "title": "Let's Learn Japanese! Katakana",
         "releaseDate": "Mar 13, 2019",
@@ -527,7 +509,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": 29,
         "description": "Learn over 200 Japanese words by completing fun challenges. Unlock mini-games, art and music.",
         "title": "Let's Learn Japanese! Vocabulary",
         "releaseDate": "Dec 24, 2019",
@@ -545,7 +527,7 @@
         ]
     },
     {
-        "id": 31,
+        "id": 30,
         "description": "Lingotopia is a language learning game about being lost in a city where you don't speak the language. Learn Chinese, French, German, Japanese, Russian, Spanish and more!",
         "title": "Lingotopia",
         "releaseDate": "Aug 16, 2018",
@@ -563,7 +545,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": 31,
         "description": "A simple indie quality FPS designed as an introduction to language learning (solo developed). All 16 languages are included with full voice acting. Use your newfound language skills to save the city from an army of killer robots! Choose from Japanese, Russian, French, Spanish, Ukrainian and more.",
         "title": "Linguist FPS - The Language Learning FPS",
         "releaseDate": "May 20, 2022",
@@ -581,7 +563,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": 32,
         "description": "Lost Abroad Café: a language learning game that puts you in the role of a virtual café owner in another country. Learn and use your new language to serve your customers and grow your business. Try it now on Steam Early Access!",
         "title": "Lost Abroad Café",
         "releaseDate": "Dec 30, 2022",
@@ -599,7 +581,7 @@
         ]
     },
     {
-        "id": 34,
+        "id": 33,
         "description": "Become a millionaire by using your foreign language knowledge. Invite your friends and family!",
         "title": "Milliopoly - Language Quiz and Learning",
         "releaseDate": "Aug 9, 2022",
@@ -617,7 +599,7 @@
         ]
     },
     {
-        "id": 35,
+        "id": 34,
         "description": "721 words. That is enough to cover 90% of conversations in English. Unscramble those words in Mini Words - a unique mix of puzzle, word search and hangman.",
         "title": "Mini Words",
         "releaseDate": "Oct 24, 2019",
@@ -635,7 +617,7 @@
         ]
     },
     {
-        "id": 36,
+        "id": 35,
         "description": "The most used nouns in English. Can you recognize them in another language? Unscramble frequently used words in a unique mix of logic puzzle, word search, and hangman.",
         "title": "Mini Words: Polyglot",
         "releaseDate": "Mar 18, 2021",
@@ -653,7 +635,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": 36,
         "description": "Experience the ultimate way to learn languages, without leaving home! Enjoy talking to our virtual characters and gain confidence for real life situations. Get instant feedback on your pronunciation, enrich your vocabulary and discover the fun in learning languages! Fluency in 30 languages awaits!",
         "title": "Mondly: Learn Languages in VR",
         "releaseDate": "Feb 1, 2017",
@@ -671,10 +653,10 @@
         ]
     },
     {
-        "id": 38,
+        "id": 37,
         "description": "✨A fantasy language learning adventure where you learn a second language to save the the kingdom and befriend its people! 🎮",
         "title": "Newcomer",
-        "releaseDate": "August 2023",
+        "releaseDate": "September 2023",
         "storeUrl": "https://store.steampowered.com/app/2063790",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2063790/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2063790/library_600x900_2x.jpg",
@@ -689,7 +671,7 @@
         ]
     },
     {
-        "id": 39,
+        "id": 38,
         "description": "Learn Japanese language in a fun way! Smart learning system that teach vocabularies with Japanese alphabet: Hiragana, Katakana and Kanji.",
         "title": "Nihongo Heroes",
         "releaseDate": "Nov 3, 2021",
@@ -707,7 +689,7 @@
         ]
     },
     {
-        "id": 40,
+        "id": 39,
         "description": "Learn Japanese through gaming! Nihongo Quest is a colorful JRPG that will teach you over 1000 Japanese words and characters. Explore the world of Gakushū as you battle, race, and draw your way to victory! Teaches up to the JLPT N5 level of Japanese.",
         "title": "Nihongo Quest N5",
         "releaseDate": "To be announced",
@@ -725,28 +707,28 @@
         ]
     },
     {
-        "id": 41,
+        "id": 40,
         "description": "Noun Town: VR Language Learning is the new way to learn a foreign language! Pick things up, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Korean, Chinese, Spanish, and more…",
         "title": "Noun Town",
         "releaseDate": "Dec 15, 2022",
         "storeUrl": "https://store.steampowered.com/app/1643100",
-        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header_alt_assets_1.jpg",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643100/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_600x900_2x.jpg",
         "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/library_hero.jpg",
         "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/1643100/logo.png",
         "developers": [
             {
                 "id": 1,
-                "link": "https://store.steampowered.com/curator/40706656?snr=1_5_9__2000",
-                "name": "realiaXR"
+                "link": "https://store.steampowered.com/search/?developer=Noun%20Town&snr=1_5_9__2000",
+                "name": "Noun Town"
             }
         ]
     },
     {
-        "id": 42,
+        "id": 41,
         "description": "Noun Town Language Learning is the new way to learn a foreign language! Interact, listen, read, and speak your chosen language in a world that regains color as you learn. Test your skills with mini-games & talk to the local villagers. Learn Japanese, Chinese, Spanish, and more…",
         "title": "Noun Town Language Learning",
-        "releaseDate": "Aug 31, 2023",
+        "releaseDate": "Sep 28, 2023",
         "storeUrl": "https://store.steampowered.com/app/2313720",
         "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2313720/header.jpg",
         "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2313720/library_600x900_2x.jpg",
@@ -755,13 +737,13 @@
         "developers": [
             {
                 "id": 1,
-                "link": "https://store.steampowered.com/search/?developer=realiaXR&snr=1_5_9__2000",
-                "name": "realiaXR"
+                "link": "https://store.steampowered.com/search/?developer=Noun%20Town&snr=1_5_9__2000",
+                "name": "Noun Town"
             }
         ]
     },
     {
-        "id": 43,
+        "id": 42,
         "description": "Want to improve your Spanish? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? ¡Felicidades amigos! This is the game for you.",
         "title": "Pedro's Adventures in Spanish",
         "releaseDate": "Jul 29, 2021",
@@ -779,7 +761,7 @@
         ]
     },
     {
-        "id": 44,
+        "id": 43,
         "description": "Take control of Peter as he travels across the kingdom, solving puzzles, making friends and defeating monsters. This game is designed to be accessible to a very broad range of players, including young children and people learning English as a second language.",
         "title": "Peter's Adventures in English",
         "releaseDate": "Nov 11, 2021",
@@ -797,7 +779,7 @@
         ]
     },
     {
-        "id": 45,
+        "id": 44,
         "description": "Want to improve your French? Need a break from flash cards and listening exercises? Ready to put what you've already learned into practice? Félicitations ! This is the game for you.",
         "title": "Pierre's Adventures in French",
         "releaseDate": "Oct 14, 2022",
@@ -811,6 +793,24 @@
                 "id": 1,
                 "link": "https://store.steampowered.com/developer/RocketBoyGames?snr=1_5_9__2000",
                 "name": "Rocket Boy Games"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "description": "Learn languages like a polyglot! Build vocabulary in French, German, Italian, Lithuanian, Polish, Portuguese, Spanish, Japanese, Chinese & Korean",
+        "title": "Polyglot Language Learning Quiz",
+        "releaseDate": "Aug 3, 2023",
+        "storeUrl": "https://store.steampowered.com/app/2511620",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2511620/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2511620/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2511620/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2511620/logo.png",
+        "developers": [
+            {
+                "id": 1,
+                "link": "https://store.steampowered.com/developer/wholetonegames?snr=1_5_9__2000",
+                "name": "Wholetone Games"
             }
         ]
     },
@@ -906,6 +906,42 @@
     },
     {
         "id": 51,
+        "description": "Unleash your linguistic prowess with Speechbound: a multi platform RPG where the thrill of gaming and the power of education converge. Engage in a captivating narrative, battle formidable foes, tackle exciting language exercises, and discover the beauty of Babyl Moon.",
+        "title": "Speechbound - A Language RPG",
+        "releaseDate": "To be announced",
+        "storeUrl": "https://store.steampowered.com/app/2521500",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2521500/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2521500/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2521500/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/2521500/logo.png",
+        "developers": [
+            {
+                "id": 1,
+                "link": "https://store.steampowered.com/search/?developer=Moonspire%20Games&snr=1_5_9__2000",
+                "name": "Moonspire Games"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "description": "Tails Noir is a post-noir narrative adventure. Become raccoon private eye Howard Lotor and explore dystopian Vancouver inhabited by animals as you uncover a deeply personal story of change and transformation.",
+        "title": "Tails Noir",
+        "releaseDate": "Jun 8, 2021",
+        "storeUrl": "https://store.steampowered.com/app/865610",
+        "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/865610/header.jpg",
+        "libraryImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_600x900_2x.jpg",
+        "libraryHeroImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/library_hero.jpg",
+        "libraryLogoImageUrl": "https://steamcdn-a.akamaihd.net/steam/apps/865610/logo.png",
+        "developers": [
+            {
+                "id": 1,
+                "link": "https://store.steampowered.com/developer/rawfury?snr=1_5_9__2000",
+                "name": "Eggnut"
+            }
+        ]
+    },
+    {
+        "id": 53,
         "description": "Tango Senshi 単語戦士 is a retro top down RPG game centered about exploration, finding vocab words in the world by interacting with objects, and using the vocab you learned to gain advantage when battling! You will also unravel the mystery of your past, save the citizens, and become a hero!",
         "title": "Tango Senshi 単語戦士 : A Japanese Vocab Learning RPG",
         "releaseDate": "To be announced",
@@ -923,7 +959,7 @@
         ]
     },
     {
-        "id": 52,
+        "id": 54,
         "description": "You’ve arrived at Terra Alia, a world where magic and technology shape the future. Embark on an adventure and solve a thrilling mystery while practicing a new language in this top-down RPG!",
         "title": "Terra Alia",
         "releaseDate": "May 14, 2021",
@@ -941,7 +977,7 @@
         ]
     },
     {
-        "id": 53,
+        "id": 55,
         "description": "The Language Game is a 2 player quiz-style game that will improve your vocabulary and pronunciation as you play. Our innovative system lets you learn from any language to any other language, so each player can learn a different language.",
         "title": "The Language Game",
         "releaseDate": "Jul 9, 2015",
@@ -959,7 +995,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": 56,
         "description": "A dynamic arcade game set in a neon universe full of fractals and translations! Boost your memory, develop new skills, and improve your scores to become a master of Trancelation in this ever-changing journey through linguistics!",
         "title": "Trancelation",
         "releaseDate": "Mar 12, 2019",
@@ -977,7 +1013,7 @@
         ]
     },
     {
-        "id": 55,
+        "id": 57,
         "description": "Learn and master the japanese phonetic alphabets at your own pace with this meditative language learning tool.",
         "title": "You Can Kana",
         "releaseDate": "Aug 11, 2021",
